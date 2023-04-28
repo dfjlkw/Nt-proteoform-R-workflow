@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 502
+# Identity:     479/502 (95.4%)
+# Similarity:    NA/502 (NA%)
+# Gaps:          15/502 (3.0%)
+# Score: 2416.5
+#
+#
+#=======================================
+
+P1                30 LPGTAGDFSLSASLSACTLLYEGAVEPMQIDVDPQEDPQNAPDVNYVVENPSLDLEQYAASYSGLMRIERLQFIADHCPTLRVEALKMALSFVQRTFNVD    129
+                      |     | |            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MPLPVQVFNL-----------QGAVEPMQIDVDPQEDPQNAPDVNYVVENPSLDLEQYAASYSGLMRIERLQFIADHCPTLRVEALKMALSFVQRTFNVD     89
+
+P1               130 MYEEIHRKLSEATR----ELQNAPDAIPESGVEPPALDTAWVEATRKKALLKLEKLDTDLKNYKGNSIKESIRRGHDDLGDHYLDCGDLSNALKCYSRAR    225
+                     ||||||||||||||    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                90 MYEEIHRKLSEATRSSLRELQNAPDAIPESGVEPPALDTAWVEATRKKALLKLEKLDTDLKNYKGNSIKESIRRGHDDLGDHYLDCGDLSNALKCYSRAR    189
+
+P1               226 DYCTSAKHVINMCLNVIKVSVYLQNWSHVLSYVSKAESTPEIAEQRGERDSQTQAILTKLKCAAGLAELAARKYKQAAKCLLLASFDHCDFPELLSPSNV    325
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               190 DYCTSAKHVINMCLNVIKVSVYLQNWSHVLSYVSKAESTPEIAEQRGERDSQTQAILTKLKCAAGLAELAARKYKQAAKCLLLASFDHCDFPELLSPSNV    289
+
+P1               326 AIYGGLCALATFDRQELQRNVISSSSFKLFLELEPQVRDIIFKFYESKYASCLKMLDEMKDNLLLDMYLAPHVRTLYTQIRNRALIQYFSPYVSADMHRM    425
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               290 AIYGGLCALATFDRQELQRNVISSSSFKLFLELEPQVRDIIFKFYESKYASCLKMLDEMKDNLLLDMYLAPHVRTLYTQIRNRALIQYFSPYVSADMHRM    389
+
+P1               426 AAAFNTTVAALEDELTQLILEGLISARVDSHSKILYARDVDQRSTTFEKSLLMGKEFQRRAKAMMLRAAVLRNQIHVKSPPREGSQGELTPANSQSRMST    525
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               390 AAAFNTTVAALEDELTQLILEGLISARVDSHSKILYARDVDQRSTTFEKSLLMGKEFQRRAKAMMLRAAVLRNQIHVKSPPREGSQGELTPANSQSRMST    489
+
+P1               526 NM    527
+                     ||
+S1               490 NM    491
+
+
+#---------------------------------------
+#---------------------------------------

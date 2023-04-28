@@ -1,0 +1,53 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:09 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 661
+# Identity:     661/661 (100.0%)
+# Similarity:    NA/661 (NA%)
+# Gaps:           0/661 (0.0%)
+# Score: 3510
+#
+#
+#=======================================
+
+P1               100 MQANGAGGGGGGGGGGGGGGGGGGGQGQTPELACLSAQNGESSPSSSSSAGDLAHANGLLPSAPSAASNNSNSLNVNNGVPGGAAAASSATVAAASATTA    199
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MQANGAGGGGGGGGGGGGGGGGGGGQGQTPELACLSAQNGESSPSSSSSAGDLAHANGLLPSAPSAASNNSNSLNVNNGVPGGAAAASSATVAAASATTA    100
+
+P1               200 ASSSLATPELGSSLKKKKRLSQSDEDVIRLIGQHLNGLGLNQTVDLLMQESGCRLEHPSATKFRNHVMEGDWDKAENDLNELKPLVHSPHAIVVRGALEI    299
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 ASSSLATPELGSSLKKKKRLSQSDEDVIRLIGQHLNGLGLNQTVDLLMQESGCRLEHPSATKFRNHVMEGDWDKAENDLNELKPLVHSPHAIVVRGALEI    200
+
+P1               300 SQTLLGIIVRMKFLLLQQKYLEYLEDGKVLEALQVLRCELTPLKYNTERIHVLSGYLMCSHAEDLRAKAEWEGKGTASRSKLLDKLQTYLPPSVMLPPRR    399
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 SQTLLGIIVRMKFLLLQQKYLEYLEDGKVLEALQVLRCELTPLKYNTERIHVLSGYLMCSHAEDLRAKAEWEGKGTASRSKLLDKLQTYLPPSVMLPPRR    300
+
+P1               400 LQTLLRQAVELQRDRCLYHNTKLDNNLDSVSLLIDHVCSRRQFPCYTQQILTEHCNEVWFCKFSNDGTKLATGSKDTTVIIWQVDPDTHLLKLLKTLEGH    499
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 LQTLLRQAVELQRDRCLYHNTKLDNNLDSVSLLIDHVCSRRQFPCYTQQILTEHCNEVWFCKFSNDGTKLATGSKDTTVIIWQVDPDTHLLKLLKTLEGH    400
+
+P1               500 AYGVSYIAWSPDDNYLVACGPDDCSELWLWNVQTGELRTKMSQSHEDSLTSVAWNPDGKRFVTGGQRGQFYQCDLDGNLLDSWEGVRVQCLWCLSDGKTV    599
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 AYGVSYIAWSPDDNYLVACGPDDCSELWLWNVQTGELRTKMSQSHEDSLTSVAWNPDGKRFVTGGQRGQFYQCDLDGNLLDSWEGVRVQCLWCLSDGKTV    500
+
+P1               600 LASDTHQRIRGYNFEDLTDRNIVQEDHPIMSFTISKNGRLALLNVATQGVHLWDLQDRVLVRKYQGVTQGFYTIHSCFGGHNEDFIASGSEDHKVYIWHK    699
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 LASDTHQRIRGYNFEDLTDRNIVQEDHPIMSFTISKNGRLALLNVATQGVHLWDLQDRVLVRKYQGVTQGFYTIHSCFGGHNEDFIASGSEDHKVYIWHK    600
+
+P1               700 RSELPIAELTGHTRTVNCVSWNPQIPSMMASASDDGTVRIWGPAPFIDHQNIEEECSSMDS    760
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               601 RSELPIAELTGHTRTVNCVSWNPQIPSMMASASDDGTVRIWGPAPFIDHQNIEEECSSMDS    661
+
+
+#---------------------------------------
+#---------------------------------------

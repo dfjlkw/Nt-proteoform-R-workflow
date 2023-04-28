@@ -1,0 +1,101 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:09 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1814
+# Identity:    1309/1814 (72.2%)
+# Similarity:    NA/1814 (NA%)
+# Gaps:         289/1814 (15.9%)
+# Score: 6302.5
+#
+#
+#=======================================
+
+P1               190 AKHLCVNGMQCNRYIKKAYRAGTSPSPRPTVVKLAHLEHRDFILQKSILLQNV-GVRIATREEPSCPQGNKNPQKESISFFQQQHQDYSQTSLNQDEPVL    288
+                        |||         | |   | ||    | | |                |||     | |           |  |    |     |            |
+S1                 1 MSLLCVR-------VKRAKFQG-SPDKFNTYVTLK--------------VQNVKSTTVAVRGD--------QPSWEQDFMFEISRLDLG----------L     60
+
+P1               289 QMETGDRGPITGTYQMKAQDQQREHQAPEQQGP---CFLLKNNLSKESDVPKLGDEIKGASRTSQVISGSCDELSEKKASLSTPHQ------FEEPALVL    379
+                       |    | |  |                  ||     |    | |        ||| |                       |||       || |    
+S1                61 SVEVWNKGLIWDTMVGTVWIALKTIRQSDEEGPGEWSTLEAETLMKD-------DEICGTRNP-------------------TPHKILLDTRFELP--FD    132
+
+P1               380 ISKEEASGKSQFFKQYSQKHEACKVGKPENDCHDKSEASSCLSLSGLLKTERINAEDKLLGCEAGLDILSSKELEDLLADKSRR----LAALSCDSMMEE    475
+                     |  |||         |                                | | |||    ||        || |        | |     ||  |      
+S1               133 IPEEEAR-----YWTY--------------------------------KWEQINA----LGAD---NEYSSQE-------ESQRKPLPTAAAQC------    175
+
+P1               476 IIIGPETFSDMVHIDLNEEEECAAHVLKDVFDKSSCVLGGSQEDEDVEIKFYTSKL-----------GRAIHHF----RSALQGVFQKLENSG---SISP    557
+                            | |                        | |      | |      ||                 | |    ||  |   |         |   
+S1               176 ------SFED----------------------PDSAV-----DDRDSDYRSETSNSFPPPYHTASQPNASVHQFPVPVRSPQQLLLQGSSRDSCNDSMQS    242
+
+P1               558 EDLESNESGSQSENSDRLLGTVSSGGAQDCSLESPGSQGSESLLSVVSGGVGVSTQGEQTPQDPSTFSLASNNSLPSVALAPCLGSETCSRPGS------    651
+                      ||   |    |  |    |         |      || ||                ||      | |  |           |  |   || |       
+S1               243 YDLDYPERRAISPTSSSRYGS-------SCNVSQGSSQLSE-----------LDQYHEQDDDHRETDSIHS-----------CHSSHSLSRDGQAGFGEQ    313
+
+P1               652 --PKQ--GRLSLEQVCTETVYLNKCINNFKNVLREKRLRQKKLLHE----LVQKANRLSVEDIHSEEKRGA--------------------LQIPDDGDP    723
+                       |    |    |  |                   |        |       ||   |       ||                          |||||||
+S1               314 EKPLEVTGQAEKEAAC-----------------EPKEMKEDATTHPPPDLVLQKDHFLGPQESFPEENASSPFTQARAHWIRAVTKVRLQLQEIPDDGDP    396
+
+P1               724 SLPQWLPEGPAGGLYGIDSMPDLRRKKPLPLVSDLSLVQSRKAGITSAMATRTSLKDEELKSHVYKKTLQALIYPISCTTPHNFEVWTATTPTYCYECEG    823
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               397 SLPQWLPEGPAGGLYGIDSMPDLRRKKPLPLVSDLSLVQSRKAGITSAMATRTSLKDEELKSHVYKKTLQALIYPISCTTPHNFEVWTATTPTYCYECEG    496
+
+P1               824 LLWGIARQGMRCSECGVKCHEKCQDLLNADCLQRAAEKSCKHGAEDRTQNIIMAMKDRMKIRERNKPEIFEVIRDVFTVNKAAHVQQMKTVKQSVLDGTS    923
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               497 LLWGIARQGMRCSECGVKCHEKCQDLLNADCLQRAAEKSCKHGAEDRTQNIIMAMKDRMKIRERNKPEIFEVIRDVFTVNKAAHVQQMKTVKQSVLDGTS    596
+
+P1               924 KWSAKITITVVCAQGLQAKDKTGSSDPYVTVQVSKTKKRTKTIFGNLNPVWEEKFHFECHNSSDRIKVRVWDEDDDIKSRVKQRLKRESDDFLGQTIIEV   1023
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               597 KWSAKITITVVCAQGLQAKDKTGSSDPYVTVQVSKTKKRTKTIFGNLNPVWEEKFHFECHNSSDRIKVRVWDEDDDIKSRVKQRLKRESDDFLGQTIIEV    696
+
+P1              1024 RTLSGEMDVWYNLEKRTDKSAVSGAIRLQISVEIKGEEKVAPYHVQYTCLHENLFHYLTDIQGSGGVRIPEARGDDAWKVYFDETAQEIVDEFAMRYGIE   1123
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               697 RTLSGEMDVWYNLEKRTDKSAVSGAIRLQISVEIKGEEKVAPYHVQYTCLHENLFHYLTDIQGSGGVRIPEARGDDAWKVYFDETAQEIVDEFAMRYGIE    796
+
+P1              1124 SIYQAMTHFACLSSKYMCPGVPAVMSTLLANINAYYAHTTASTNVSASDRFAASNFGKERFVKLLDQLHNSLRIDLSTYRNNFPAGSPERLQDLKSTVDL   1223
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               797 SIYQAMTHFACLSSKYMCPGVPAVMSTLLANINAYYAHTTASTNVSASDRFAASNFGKERFVKLLDQLHNSLRIDLSTYRNNFPAGSPERLQDLKSTVDL    896
+
+P1              1224 LTSITFFRMKVQELQSPPRASQVVKDCVKACLNSTYEYIFNNCHDLYSRQYQLKQELPPEEQGPSIRNLDFWPKLITLIVSIIEEDKNSYTPVLNQFPQE   1323
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               897 LTSITFFRMKVQELQSPPRASQVVKDCVKACLNSTYEYIFNNCHDLYSRQYQLKQELPPEEQGPSIRNLDFWPKLITLIVSIIEEDKNSYTPVLNQFPQE    996
+
+P1              1324 LNVGKVSAEVMWHLFAQDMKYALEEHEKDHLCKSADYMNLHFKVKWLHNEYVRDLPVLQGQVPEYPAWFEQFVLQWLDENEDVSLEFLRGALERDKKDGF   1423
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               997 LNVGKVSAEVMWHLFAQDMKYALEEHEKDHLCKSADYMNLHFKVKWLHNEYVRDLPVLQGQVPEYPAWFEQFVLQWLDENEDVSLEFLRGALERDKKDGF   1096
+
+P1              1424 QQTSEHALFSCSVVDVFTQLNQSFEIIRKLECPDPSILAHYMRRFAKTIGKVLMQYADILSKDFPAYCTKEKLPCILMNNVQQLRVQLEKMFEAMGGKEL   1523
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1097 QQTSEHALFSCSVVDVFTQLNQSFEIIRKLECPDPSILAHYMRRFAKTIGKVLMQYADILSKDFPAYCTKEKLPCILMNNVQQLRVQLEKMFEAMGGKEL   1196
+
+P1              1524 DLEAADSLKELQVKLNTVLDELSMVFGNSFQVRIDECVRQMADILGQVRGTGNASPDARASAAQDADSVLRPLMDFLDGNLTLFATVCEKTVLKRVLKEL   1623
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1197 DLEAADSLKELQVKLNTVLDELSMVFGNSFQVRIDECVRQMADILGQVRGTGNASPDARASAAQDADSVLRPLMDFLDGNLTLFATVCEKTVLKRVLKEL   1296
+
+P1              1624 WRVVMNTMERMIVLPPLTDQTGTQLIFTAAKELSHLSKLKDHMVREETRNLTPKQCAVLDLALDTIKQYFHAGGNGLKKTFLEKSPDLQSLRYALSLYTQ   1723
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1297 WRVVMNTMERMIVLPPLTDQTGTQLIFTAAKELSHLSKLKDHMVREETRNLTPKQCAVLDLALDTIKQYFHAGGNGLKKTFLEKSPDLQSLRYALSLYTQ   1396
+
+P1              1724 TTDTLIKTFVRSQTTQVHDGKGIRFTANEDIRPEKGSGVDDPVGEVSIQVDLFTHPGTGEHKVTVKVVAANDLKWQTAGMFRPFVEVTMVGPHQSDKKRK   1823
+                     ||||||||||||||||                   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1397 TTDTLIKTFVRSQTTQ-------------------GSGVDDPVGEVSIQVDLFTHPGTGEHKVTVKVVAANDLKWQTAGMFRPFVEVTMVGPHQSDKKRK   1477
+
+P1              1824 FTTKSKSNNWAPKYNETFHFLLGNEEGPESYELQICVKDYCFAREDRVLGLAVMPLRDVTAKGSCACWCPLGRKIHMDETGLTILRILSQRSNDEVAREF   1923
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1478 FTTKSKSNNWAPKYNETFHFLLGNEEGPESYELQICVKDYCFAREDRVLGLAVMPLRDVTAKGSCACWCPLGRKIHMDETGLTILRILSQRSNDEVAREF   1577
+
+P1              1924 VKLKSESRSTEEGS   1937
+                     ||||||||||||||
+S1              1578 VKLKSESRSTEEGS   1591
+
+
+#---------------------------------------
+#---------------------------------------

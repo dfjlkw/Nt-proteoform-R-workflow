@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 561
+# Identity:     499/561 (88.9%)
+# Similarity:    NA/561 (NA%)
+# Gaps:          62/561 (11.1%)
+# Score: 2531
+#
+#
+#=======================================
+
+P1                 1 ASASSGPSSSVGFSSFDPAVPSCTLSSA-SGIKRPMASEV------------PYASGMPIKKIGHRSVDSSGETTYKKTTSSALKGAIQLGITHTVGSLS     87
+                     |||||||||||||||||||||||||||| |||||||||||            ||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 2 ASASSGPSSSVGFSSFDPAVPSCTLSSAASGIKRPMASEVLEARQDSYISLVPYASGMPIKKIGHRSVDSSGETTYKKTTSSALKGAIQLGITHTVGSLS    101
+
+P1                88 TKPERDVLMQDFYVVESIFFPSEGSNLTPAHHYNDFRFKTYAPVAFRYFRELFGIRPDDYLYSLCSEPLIELCSSGASGSLFYVSSDDEFIIKTVQHKEA    187
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               102 TKPERDVLMQDFYVVESIFFPSEGSNLTPAHHYNDFRFKTYAPVAFRYFRELFGIRPDDYLYSLCSEPLIELCSSGASGSLFYVSSDDEFIIKTVQHKEA    201
+
+P1               188 EFLQKLLPGYYMNLNQNPRTLLPKFYGLYCVQAGGKNIRIVVMNNLLPRSVKMHIKYDLKGSTYKRRASQKEREKPLPTFKDLDFLQDIPDGLFLDADMY    287
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               202 EFLQKLLPGYYMNLNQNPRTLLPKFYGLYCVQAGGKNIRIVVMNNLLPRSVKMHIKYDLKGSTYKRRASQKEREKPLPTFKDLDFLQDIPDGLFLDADMY    301
+
+P1               288 NALCKTLQRDCLVLQSFKIMDYSLLMSIHNIDHAQREPLSSETQYSVDTRRPAPQKALYSTAMESIQGEARRGGTMETDDHMGGIPARNSKGERLLLYIG    387
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               302 NALCKTLQRDCLVLQSFKIMDYSLLMSIHNIDHAQREPLSSETQYSVDTRRPAPQKALYSTAMESIQGEARRGGTMETDDHMGGIPARNSKGERLLLYIG    401
+
+P1               388 IIDILQSYRFVKKLEHSWKALVHDGDTVSVHRPGFYAERFQRFMCNTVFKKIP-------------------------C---------------------    441
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||                         |                     
+S1               402 IIDILQSYRFVKKLEHSWKALVHDGDTVSVHRPGFYAERFQRFMCNTVFKKIPLKPSPSKKFRSGSSFSRRAGSSGNSCITYQPSVSGEHKAQVTTKAEV    501
+
+P1               442 ---VHLGRPDVLPQTPPLEEISEGSPIPDPSFSPLVGETLQMLTTSTTLEKLEVAESEFTH    499
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               502 EPGVHLGRPDVLPQTPPLEEISEGSPIPDPSFSPLVGETLQMLTTSTTLEKLEVAESEFTH    562
+
+
+#---------------------------------------
+#---------------------------------------

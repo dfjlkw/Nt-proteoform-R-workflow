@@ -1,0 +1,33 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:08 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 166
+# Identity:     166/166 (100.0%)
+# Similarity:    NA/166 (NA%)
+# Gaps:           0/166 (0.0%)
+# Score: 834
+#
+#
+#=======================================
+
+P1                14 MEATTAGVGRLEEEALRRKERLKALREKTGRKDKEDGEPKTKHLREEEEEGEKHRELRLRNYVPEDEDLKKRRVPQAKPVAVEEKVKEQLEAAKPEPVIE    113
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MEATTAGVGRLEEEALRRKERLKALREKTGRKDKEDGEPKTKHLREEEEEGEKHRELRLRNYVPEDEDLKKRRVPQAKPVAVEEKVKEQLEAAKPEPVIE    100
+
+P1               114 EVDLANLAPRKPDWDLKRDVAKKLEKLKKRTQRAIAELIRERLKGQEDSLASAVDAATEQKTCDSD    179
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 EVDLANLAPRKPDWDLKRDVAKKLEKLKKRTQRAIAELIRERLKGQEDSLASAVDAATEQKTCDSD    166
+
+
+#---------------------------------------
+#---------------------------------------

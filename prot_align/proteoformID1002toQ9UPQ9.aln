@@ -1,0 +1,101 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1833
+# Identity:     991/1833 (54.1%)
+# Similarity:    NA/1833 (NA%)
+# Gaps:         840/1833 (45.8%)
+# Score: 4892
+#
+#
+#=======================================
+
+P1                37 KQEKEQEREEQLMEDKKRKKEDKKKKEATQKVTEQKTKVPEVTKPSLSQPTAASPIGSSPSPPVNGGNNAKRVAVPNGQPPSAARYMPREVPPRFRCQQD    136
+                       ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MREKEQEREEQLMEDKKRKKEDKKKKEATQKVTEQKTKVPEVTKPSLSQPTAASPIGSSPSPPVNGGNNAKRVAVPNGQPPSAARYMPREVPPRFRCQQD    100
+
+P1               137 HKVLLKRGQPPPPSCMLLGGGAGPPPCTAPGANPNNAQVTGALLQSESGTAP------------------------------------------------    188
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||                                                
+S1               101 HKVLLKRGQPPPPSCMLLGGGAGPPPCTAPGANPNNAQVTGALLQSESGTAPDSTLGGAAASNYANSTWGSGASSNNGTSPNPIHIWDKVIVDGSDMEEW    200
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               201 PCIASKDTESSSENTTDNNSASNPGSEKSTLPGSTTSNKGKGSQCQSASSGNECNLGVWKSDPKAKSVQSSNSTTENNNGLGNWRNVSGQDRIGPGSGFS    300
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               301 NFNPNSNPSAWPALVQEGTSRKGALETDNSNSSAQVSTVGQTSREQQSKMENAGVNFVVSGREQAQIHNTDGPKNGNTNSLNLSSPNPMENKGMPFGMGL    400
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               401 GNTSRSTDAPSQSTGDRKTGSVGSWGAARGPSGTDTVSGQSNSGNNGNNGKEREDSWKGASVQKSTGSKNDSWDNNNRSTGGSWNFGPQDSNDNKWGEGN    500
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               501 KMTSGVSQGEWKQPTGSDELKIGEWSGPNQPNSSTGAWDNQKGHPLPENQGNAQAPCWGRSSSSTGSEVGGQSTGSNHKAGSSDSHNSGRRSYRPTHPDC    600
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               601 QAVLQTLLSRTDLDPRVLSNTGWGQTQIKQDTVWDIEEVPRPEGKSDKGTEGWESAATQTKNSGGWGDAPSQSNQMKSGWGELSASTEWKDPKNTGGWND    700
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               701 YKNNNSSNWGGGRPDEKTPSSWNENPSKDQGWGGGRQPNQGWSSGKNGWGEEVDQTKNSNWESSASKPVSGWGEGGQNEIGTWGNGGNASLASKGGWEDC    800
+
+P1               189 ----------------------------------------------------------------------------------------------------    188
+                                                                                                                         
+S1               801 KRSPAWNETGRQPNSWNKQHQQQQPPQQPPPPQPEASGSWGGPPPPPPGNVRPSNSSWSSGPQPATPKDEEPSGWEEPSPQSISRKMDIDDGTSAWGDPN    900
+
+P1               189 -----------------------------------VWSKSTPPAPDNGTSAWGEPNESSPGWGEMDDTGASTTGWGNTPANAPNAMKPNSKSMQDGWGES    253
+                                                        |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               901 SYNYKNVNLWDKNSQGGPAPREPNLPTPMTSKSASVWSKSTPPAPDNGTSAWGEPNESSPGWGEMDDTGASTTGWGNTPANAPNAMKPNSKSMQDGWGES   1000
+
+P1               254 DGPVTGARHPSWEEEEDGGVWNTTGSQGSASSHNSASWGQGGKKQMKCSLKGGNNDSWMNPLAKQFSNMGLLSQTEDNPSSKMDLSVGSLSDKKFDVDKR    353
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1001 DGPVTGARHPSWEEEEDGGVWNTTGSQGSASSHNSASWGQGGKKQMKCSLKGGNNDSWMNPLAKQFSNMGLLSQTEDNPSSKMDLSVGSLSDKKFDVDKR   1100
+
+P1               354 AMNLGDFNDIMRKDRSGFRPPNSKDMGTTDSGPYFEK---------------------------------------------------------GGSHGL    396
+                     |||||||||||||||||||||||||||||||||||||                                                         ||||||
+S1              1101 AMNLGDFNDIMRKDRSGFRPPNSKDMGTTDSGPYFEKLTLPFSNQDGCLGDEAPCSPFSPSPSYKLSPSGSTLPNVSLGAIGTGLNPQNFAARQGGSHGL   1200
+
+P1               397 FGNSTAQSRGLHTPVQPLNSSPSLRAQVPPQFISPQVSASMLKQFPNSGLSPGLFNVGPQLSPQQIAMLSQLPQIPQFQLACQLLLQQQQQQQLLQNQRK    496
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1201 FGNSTAQSRGLHTPVQPLNSSPSLRAQVPPQFISPQVSASMLKQFPNSGLSPGLFNVGPQLSPQQIAMLSQLPQIPQFQLACQLLLQQQQQQQLLQNQRK   1300
+
+P1               497 ISQAVRQQQEQQLARMVSALQQQQQQQQRQPGMKHSPSHPVGPKPHLDNMVPNALNVGLPDLQTKGPIPGYGSGFSSGGMDYGMVGGKEAGTESRFKQWT    596
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1301 ISQAVRQQQEQQLARMVSALQQQQQQQQRQPGMKHSPSHPVGPKPHLDNMVPNALNVGLPDLQTKGPIPGYGSGFSSGGMDYGMVGGKEAGTESRFKQWT   1400
+
+P1               597 SMMEGLPSVATQEANMHKNGAIVAPGKTRGGSPYNQFDIIPGDTLGGHTGPAGDSWLPAKSPPTNKIGSKSSNASWPPEFQPGVPWKGIQNIDPESDPYV    696
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1401 SMMEGLPSVATQEANMHKNGAIVAPGKTRGGSPYNQFDIIPGDTLGGHTGPAGDSWLPAKSPPTNKIGSKSSNASWPPEFQPGVPWKGIQNIDPESDPYV   1500
+
+P1               697 TPGSVLGGTATSPIVDTDHQLLRDNTTGSNSSLNTSLPSPGAWPYSASDNSFTNVHSTSAKFPDYKSTWSPDPIGHNPTHLSNKMWKNHISSRNTTPLPR    796
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1501 TPGSVLGGTATSPIVDTDHQLLRDNTTGSNSSLNTSLPSPGAWPYSASDNSFTNVHSTSAKFPDYKSTWSPDPIGHNPTHLSNKMWKNHISSRNTTPLPR   1600
+
+P1               797 PPPGLTNPKPSSPWSSTAPRSVRGWGTQDSRLASASTWSDGGSVRPSYWLVLHNLTPQIDGSTLRTICMQHGPLLTFHLNLTQGTALIRYSTKQEAAKAQ    896
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1601 PPPGLTNPKPSSPWSSTAPRSVRGWGTQDSRLASASTWSDGGSVRPSYWLVLHNLTPQIDGSTLRTICMQHGPLLTFHLNLTQGTALIRYSTKQEAAKAQ   1700
+
+P1               897 TALHMCVLGNTTILAEFATDDEVSRFLAQAQPPTPAATPSAPAAGWQSLETGQNQSDPVGPALNLFGGSTGLGQWSSSAGGSSGADLAGASLWGPPNYSS    996
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1701 TALHMCVLGNTTILAEFATDDEVSRFLAQAQPPTPAATPSAPAAGWQSLETGQNQSDPVGPALNLFGGSTGLGQWSSSAGGSSGADLAGASLWGPPNYSS   1800
+
+P1               997 SLWGVPTVEDPHRMGSPAPLLPGDLLGGGSDSI   1029
+                     |||||||||||||||||||||||||||||||||
+S1              1801 SLWGVPTVEDPHRMGSPAPLLPGDLLGGGSDSI   1833
+
+
+#---------------------------------------
+#---------------------------------------

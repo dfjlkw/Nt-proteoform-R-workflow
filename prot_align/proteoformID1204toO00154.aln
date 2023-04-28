@@ -1,0 +1,37 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 247
+# Identity:     233/247 (94.3%)
+# Similarity:    NA/247 (NA%)
+# Gaps:           2/247 (0.8%)
+# Score: 1183.5
+#
+#
+#=======================================
+
+P1                 1 SGPDVETP--SAIQICRIMRPDDANVAGNVHGGTILKMIEEAGAIISTRHCNSQNGERCVAALARVERTDFLSPMCIGEVAHVSAEITYTSKHSVEVQVN     98
+                      ||    |   |    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                42 VGPRADLPPCGACITGRIMRPDDANVAGNVHGGTILKMIEEAGAIISTRHCNSQNGERCVAALARVERTDFLSPMCIGEVAHVSAEITYTSKHSVEVQVN    141
+
+P1                99 VMSENILTGAKKLTNKATLWYVPLSLKNVDKVLEVPPVVYSRQEQEEEGRKRYEAQKLERMETKWRNGDIVQPVLNPEPNTVSYSQSSLIHLVGPSDCTL    198
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               142 VMSENILTGAKKLTNKATLWYVPLSLKNVDKVLEVPPVVYSRQEQEEEGRKRYEAQKLERMETKWRNGDIVQPVLNPEPNTVSYSQSSLIHLVGPSDCTL    241
+
+P1               199 HGFVHGGVTMKLMDEVAGIVAARHCKTNIVTASVDAINFHDKIRKAP    245
+                     |||||||||||||||||||||||||||||||||||||||||||||  
+S1               242 HGFVHGGVTMKLMDEVAGIVAARHCKTNIVTASVDAINFHDKIRKGC    288
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:07 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 574
+# Identity:     562/574 (97.9%)
+# Similarity:    NA/574 (NA%)
+# Gaps:           2/574 (0.3%)
+# Score: 2908.5
+#
+#
+#=======================================
+
+P1               103 RRASGKEALQNINDQSDRLLIKGGKIVNDDQSFYADIYMEDGLIKQIGENLIVPGGVKTIEAHSRMVIPGGIDVHTRFQMPDQGMTSADDFFQGTKAALA    202
+                         ||     |   |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MSYQGKKNIPRIT--SDRLLIKGGKIVNDDQSFYADIYMEDGLIKQIGENLIVPGGVKTIEAHSRMVIPGGIDVHTRFQMPDQGMTSADDFFQGTKAALA     98
+
+P1               203 GGTTMIIDHVVPEPGTSLLAAFDQWREWADSKSCCDYSLHVDISEWHKGIQEEMEALVKDHGVNSFLVYMAFKDRFQLTDCQIYEVLSVIRDIGAIAQVH    302
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                99 GGTTMIIDHVVPEPGTSLLAAFDQWREWADSKSCCDYSLHVDISEWHKGIQEEMEALVKDHGVNSFLVYMAFKDRFQLTDCQIYEVLSVIRDIGAIAQVH    198
+
+P1               303 AENGDIIAEEQQRILDLGITGPEGHVLSRPEEVEAEAVNRAITIANQTNCPLYITKVMSKSSAEVIAQARKKGTVVYGEPITASLGTDGSHYWSKNWAKA    402
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               199 AENGDIIAEEQQRILDLGITGPEGHVLSRPEEVEAEAVNRAITIANQTNCPLYITKVMSKSSAEVIAQARKKGTVVYGEPITASLGTDGSHYWSKNWAKA    298
+
+P1               403 AAFVTSPPLSPDPTTPDFLNSLLSCGDLQVTGSAHCTFNTAQKAVGKDNFTLIPEGTNGTEERMSVIWDKAVVTGKMDENQFVAVTSTNAAKVFNLYPRK    502
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               299 AAFVTSPPLSPDPTTPDFLNSLLSCGDLQVTGSAHCTFNTAQKAVGKDNFTLIPEGTNGTEERMSVIWDKAVVTGKMDENQFVAVTSTNAAKVFNLYPRK    398
+
+P1               503 GRIAVGSDADLVIWDPDSVKTISAKTHNSSLEYNIFEGMECRGSPLVVISQGKIVLEDGTLHVTEGSGRYIPRKPFPDFVYKRIKARSRLAELRGVPRGL    602
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               399 GRIAVGSDADLVIWDPDSVKTISAKTHNSSLEYNIFEGMECRGSPLVVISQGKIVLEDGTLHVTEGSGRYIPRKPFPDFVYKRIKARSRLAELRGVPRGL    498
+
+P1               603 YDGPVCEVSVTPKTVTPASSAKTSPAKQQAPPVRNLHQSGFSLSGAQIDDNIPRRTTQRIVAPPGGRANITSLG    676
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               499 YDGPVCEVSVTPKTVTPASSAKTSPAKQQAPPVRNLHQSGFSLSGAQIDDNIPRRTTQRIVAPPGGRANITSLG    572
+
+
+#---------------------------------------
+#---------------------------------------

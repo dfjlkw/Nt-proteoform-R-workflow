@@ -1,0 +1,37 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 286
+# Identity:     183/286 (64.0%)
+# Similarity:    NA/286 (NA%)
+# Gaps:          44/286 (15.4%)
+# Score: 847.5
+#
+#
+#=======================================
+
+P1                 5 TIEAVKRKIQVLQQQADDAEERAER---------------------LQREVEG----------------------ERRAREQAEAEVASLNRRIQLVEEE     61
+                       || | | | |      |  |||                       |    |                      |  |   ||||||||||||||||||
+S1                 1 MMEAIKKKMQMLKLDKENALDRAEQAEAEQKQAEERSKQLEDELAAMQKKLKGTEDELDKYSEALKDAQEKLELAEKKAAD-AEAEVASLNRRIQLVEEE     99
+
+P1                62 LDRAQERLATALQKLEEAEKAADESERGMKVIENRALKDEEKMELQEIQLKEAKHIAEEADRKYEEVARKLVIIEGDLERTEERAELAESRCREMDEQIR    161
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| | |  |   
+S1               100 LDRAQERLATALQKLEEAEKAADESERGMKVIENRALKDEEKMELQEIQLKEAKHIAEEADRKYEEVARKLVIIEGDLERTEERAELAESKCSELEEELK    199
+
+P1               162 LMDQNLKCLSAAEEKYSQKEDKYEEEIKILTDKLKEAETRAEFAERSVAKLEKTIDDLEDKLKCTKEEHLCTQRMLDQTLLDLNEM    247
+                         ||| | |  ||||||||||||||||||||||||||||||||||||||||||||||| |   |         ||  | |    
+S1               200 NVTNNLKSLEAQAEKYSQKEDKYEEEIKILTDKLKEAETRAEFAERSVAKLEKTIDDLEDELYAQKLKYKAISEELDHALNDMTSI    285
+
+
+#---------------------------------------
+#---------------------------------------

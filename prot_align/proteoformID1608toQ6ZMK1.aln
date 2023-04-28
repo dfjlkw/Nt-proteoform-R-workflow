@@ -1,0 +1,41 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:08 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 395
+# Identity:     303/395 (76.7%)
+# Similarity:    NA/395 (NA%)
+# Gaps:          51/395 (12.9%)
+# Score: 1515.5
+#
+#
+#=======================================
+
+P1                27 VGAGPGA-----------------AAGQAAAAALGEAAGPGLPDEAGLAGARQLQLQEAAGDPDAPPKKRLRAAEAAEAAAAAAAAGSGKLEERLYSVLC    109
+                         |||                 ||   | |  | |||                ||  |                   |    | |    |  |     
+S1                 1 MAPKPGAEWSTALSHLVLGVVSLHAAVSTAEASRGAAAG--------------FLLQVLA-------------------ATTTLAPGLSTHEDCLAGAWV     67
+
+P1               110 CTVC-LDLPKASVYQCTNGHLMCAGCFIHLLADARLKEEQATCPNCRCEISKSLCCRNLAVEKAVSELPSECGFCLRQFPRSLLERHQKEECQDRVTQCK    208
+                      ||  | |       |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                68 ATVIGLPLLAFDFHWCTNGHLMCAGCFIHLLADARLKEEQATCPNCRCEISKSLCCRNLAVEKAVSELPSECGFCLRQFPRSLLERHQKEECQDRVTQCK    167
+
+P1               209 YKRIGCPWHGPFHELTVHEAACAHPTKTGSELMEILDGMDQSHRKEMQLYNSIFSLLSFEKIGYTEVQFRPYRTDDFITRLYYETPRFTVLNQTWVLKAR    308
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               168 YKRIGCPWHGPFHELTVHEAACAHPTKTGSELMEILDGMDQSHRKEMQLYNSIFSLLSFEKIGYTEVQFRPYRTDDFITRLYYETPRFTVLNQTWVLKAR    267
+
+P1               309 VNDSERNPNLSCKRTLSFQLLLKSKVTAPLECSFLLLKGPYDDVRISPVIYHFVFTNESNETDYVPLPIIDSVECNKLLAAKNINLRLFLFQIQK    403
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               268 VNDSERNPNLSCKRTLSFQLLLKSKVTAPLECSFLLLKGPYDDVRISPVIYHFVFTNESNETDYVPLPIIDSVECNKLLAAKNINLRLFLFQIQK    362
+
+
+#---------------------------------------
+#---------------------------------------

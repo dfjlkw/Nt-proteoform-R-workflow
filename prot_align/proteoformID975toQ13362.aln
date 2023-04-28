@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 526
+# Identity:     461/526 (87.6%)
+# Similarity:    NA/526 (NA%)
+# Gaps:          46/526 (8.7%)
+# Score: 2356
+#
+#
+#=======================================
+
+P1                58 IVKKDKRQNSSRF---SASNNRELQK--LPSLKDVPPADQEKLFIQKLRQCCVLFDFVSDPLSDLKWKEVKRAALSEMVEYITHNRNVITEPIYPEVVHM    152
+                          |    ||     |  |   |   |    |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MLTCNKA--GSRMVVDAANSNGPFQPVVLLHIRDVPPADQEKLFIQKLRQCCVLFDFVSDPLSDLKWKEVKRAALSEMVEYITHNRNVITEPIYPEVVHM     98
+
+P1               153 FAVNMFRTLPPSSNPTGAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFVLQLLELFDSEDPRERDFLKTTLHRIYGKFLGLRA    252
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                99 FAVNMFRTLPPSSNPTGAEFDPEEDEPTLEAAWPHLQLVYEFFLRFLESPDFQPNIAKKYIDQKFVLQLLELFDSEDPRERDFLKTTLHRIYGKFLGLRA    198
+
+P1               253 YIRKQINNIFYRFIYETEHHNGIAELLEILGSIINGFALPLKEEHKIFLLKVLLPLHKVKSLSVYHPQLAYCVVQFLEKDSTLTEPVVMALLKYWPKTHS    352
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               199 YIRKQINNIFYRFIYETEHHNGIAELLEILGSIINGFALPLKEEHKIFLLKVLLPLHKVKSLSVYHPQLAYCVVQFLEKDSTLTEPVVMALLKYWPKTHS    298
+
+P1               353 PKEVMFLNELEEILDVIEPSEFVKIMEPLFRQLAKCVSSPHFQVAERALYYWNNEYIMSLISDNAAKILPIMFPSLYRNSKTHWNKTIHGLIYNALKLFM    452
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               299 PKEVMFLNELEEILDVIEPSEFVKIMEPLFRQLAKCVSSPHFQVAERALYYWNNEYIMSLISDNAAKILPIMFPSLYRNSKTHWNKTIHGLIYNALKLFM    398
+
+P1               453 EMNQKLFDDCTQQFKAEKLKEKLKMKEREEAWVKIENLAKANPQ---------------------------------------AQKDPKKDRPLARRKSE    513
+                     ||||||||||||||||||||||||||||||||||||||||||||                                       |||||||||||||||||
+S1               399 EMNQKLFDDCTQQFKAEKLKEKLKMKEREEAWVKIENLAKANPQYTVYSQASTMSIPVAMETDGPLFEDVQMLRKTVKDEAHQAQKDPKKDRPLARRKSE    498
+
+P1               514 LPQDPHTKKALEAHCRADELASQDGR    539
+                     ||||||||||||||||||||||||||
+S1               499 LPQDPHTKKALEAHCRADELASQDGR    524
+
+
+#---------------------------------------
+#---------------------------------------

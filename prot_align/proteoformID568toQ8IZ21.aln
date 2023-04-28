@@ -1,0 +1,29 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 64
+# Identity:      17/64 (26.6%)
+# Similarity:    NA/64 (NA%)
+# Gaps:           6/64 (9.4%)
+# Score: 53
+#
+#
+#=======================================
+
+P1                 1 MEDPFDFSREPWNSRGSRPAHYRARHG-PGQCGSRRHNTSYQKEEQVLRLWQDLQALEMEEKKK     63
+                      |||      |       |       |     |  |     | ||   ||     |   |  ||
+S1                85 LEDPEQGGEDP-----GKPSDAMLKNGHTTPIGNARSSSPVQVEEEPVRLASLRKAIPEEDLKK    143
+
+
+#---------------------------------------
+#---------------------------------------

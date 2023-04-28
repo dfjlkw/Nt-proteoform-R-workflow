@@ -1,0 +1,45 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:06 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 433
+# Identity:     421/433 (97.2%)
+# Similarity:    NA/433 (NA%)
+# Gaps:           3/433 (0.7%)
+# Score: 2161
+#
+#
+#=======================================
+
+P1                 1 AHSPVQSGLP---GMQNLKADPEELFTKLEKIGKGSFGEVFKGIDNRTQKVVAIKIIDLEEAEDEIEDIQQEITVLSQCDSPYVTKYYGSYLKDTKLWII     97
+                     |       ||   |  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                11 ALNKRRATLPHPGGSTNLKADPEELFTKLEKIGKGSFGEVFKGIDNRTQKVVAIKIIDLEEAEDEIEDIQQEITVLSQCDSPYVTKYYGSYLKDTKLWII    110
+
+P1                98 MEYLGGGSALDLLEPGPLDETQIATILREILKGLDYLHSEKKIHRDIKAANVLLSEHGEVKLADFGVAGQLTDTQIKRNTFVGTPFWMAPEVIKQSAYDS    197
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               111 MEYLGGGSALDLLEPGPLDETQIATILREILKGLDYLHSEKKIHRDIKAANVLLSEHGEVKLADFGVAGQLTDTQIKRNTFVGTPFWMAPEVIKQSAYDS    210
+
+P1               198 KADIWSLGITAIELARGEPPHSELHPMKVLFLIPKNNPPTLEGNYSKPLKEFVEACLNKEPSFRPTAKELLKHKFILRNAKKTSYLTELIDRYKRWKAEQ    297
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               211 KADIWSLGITAIELARGEPPHSELHPMKVLFLIPKNNPPTLEGNYSKPLKEFVEACLNKEPSFRPTAKELLKHKFILRNAKKTSYLTELIDRYKRWKAEQ    310
+
+P1               298 SHDDSSSEDSDAETDGQASGGSDSGDWIFTIREKDPKNLENGALQPSDLDRNKMKDIPKRPFSQCLSTIISPLFAELKEKSQACGGNLGSIEELRGAIYL    397
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               311 SHDDSSSEDSDAETDGQASGGSDSGDWIFTIREKDPKNLENGALQPSDLDRNKMKDIPKRPFSQCLSTIISPLFAELKEKSQACGGNLGSIEELRGAIYL    410
+
+P1               398 AEEACPGISDTMVAQLVQRLQRYSLSGGGTSSH    430
+                     |||||||||||||||||||||||||||||||||
+S1               411 AEEACPGISDTMVAQLVQRLQRYSLSGGGTSSH    443
+
+
+#---------------------------------------
+#---------------------------------------

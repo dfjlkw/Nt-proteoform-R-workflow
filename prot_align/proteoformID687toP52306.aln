@@ -1,0 +1,53 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 607
+# Identity:     557/607 (91.8%)
+# Similarity:    NA/607 (NA%)
+# Gaps:          49/607 (8.1%)
+# Score: 2712
+#
+#
+#=======================================
+
+P1                 1 ADNLSDTLKKLKITAVDKTEDSLEGCLDCLLQALAQNNTETSEKIQASGILQLFASLLTPQSSCKAKVANIIAEVAKNEFMRIPCVDAGLISPLVQLLNS    100
+                      |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MDNLSDTLKKLKITAVDKTEDSLEGCLDCLLQALAQNNTETSEKIQASGILQLFASLLTPQSSCKAKVANIIAEVAKNEFMRIPCVDAGLISPLVQLLNS    100
+
+P1               101 KDQEVLLQTGRALGNICYDSH-------------------------------------------------SLQAQLINMGVIPTLVKLLGIHCQNAALTE    151
+                     |||||||||||||||||||||                                                 ||||||||||||||||||||||||||||||
+S1               101 KDQEVLLQTGRALGNICYDSHEGRSAVDQAGGAQIVIDHLRSLCSITDPANEKLLTVFCGMLMNYSNENDSLQAQLINMGVIPTLVKLLGIHCQNAALTE    200
+
+P1               152 MCLVAFGNLAELESSKEQFASTNIAEELVKLFKKQIEHDKREMIFEVLAPLAENDAIKLQLVEAGLVECLLEIVQQKVDSDKEDDITELKTGSDLMVLLL    251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 MCLVAFGNLAELESSKEQFASTNIAEELVKLFKKQIEHDKREMIFEVLAPLAENDAIKLQLVEAGLVECLLEIVQQKVDSDKEDDITELKTGSDLMVLLL    300
+
+P1               252 LGDESMQKLFEGGKGSVFQRVLSWIPSNNHQLQLAGALAIANFARNDANCIHMVDNGIVEKLMDLLDRHVEDGNVTVQHAALSALRNLAIPVINKAKMLS    351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 LGDESMQKLFEGGKGSVFQRVLSWIPSNNHQLQLAGALAIANFARNDANCIHMVDNGIVEKLMDLLDRHVEDGNVTVQHAALSALRNLAIPVINKAKMLS    400
+
+P1               352 AGVTEAVLKFLKSEMPPVQFKLLGTLRMLIDAQAEAAEQLGKNVKLVERLVEWCEAKDHAGVMGESNRLLSALIRHSKSKDVIKTIVQSGGIKHLVTMAT    451
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 AGVTEAVLKFLKSEMPPVQFKLLGTLRMLIDAQAEAAEQLGKNVKLVERLVEWCEAKDHAGVMGESNRLLSALIRHSKSKDVIKTIVQSGGIKHLVTMAT    500
+
+P1               452 SEHVIMQNEALVALALIAALELGTAEKDLESAKLVQILHRLLADERSAPEIKYNSMVLICALMGSECLHKEVQDLAFLDVVSKLRSHENKSVAQQASLTE    551
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 SEHVIMQNEALVALALIAALELGTAEKDLESAKLVQILHRLLADERSAPEIKYNSMVLICALMGSECLHKEVQDLAFLDVVSKLRSHENKSVAQQASLTE    600
+
+P1               552 QRLTVES    558
+                     |||||||
+S1               601 QRLTVES    607
+
+
+#---------------------------------------
+#---------------------------------------

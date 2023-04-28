@@ -1,0 +1,57 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 708
+# Identity:     686/708 (96.9%)
+# Similarity:    NA/708 (NA%)
+# Gaps:          22/708 (3.1%)
+# Score: 3498.5
+#
+#
+#=======================================
+
+P1                 1 MNPTETKA----------------------VKTEPEKKSQSTKLSVVHEKKSQEGKPKEHTEPKSLPKQASDTGSNDAHNKKAVSRSAEQQPSEKSTEPK     78
+                     ||||||||                      ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MNPTETKAIPVSQQMEGPHLPNKKKHKKQAVKTEPEKKSQSTKLSVVHEKKSQEGKPKEHTEPKSLPKQASDTGSNDAHNKKAVSRSAEQQPSEKSTEPK    100
+
+P1                79 TKPQDMISAGGESVAGITAISGKPGDKKKEKKSLTPAVPVESKPDKPSGKSGMDAALDDLIDTLGGPEETEEENTTYTGPEVSDPMSSTYIEELGKREVT    178
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 TKPQDMISAGGESVAGITAISGKPGDKKKEKKSLTPAVPVESKPDKPSGKSGMDAALDDLIDTLGGPEETEEENTTYTGPEVSDPMSSTYIEELGKREVT    200
+
+P1               179 IPPKYRELLAKKEGITGPPADSSKPIGPDDAIDALSSDFTCGSPTAAGKKTEKEESTEVLKAQSAGTVRSAAPPQEKKRKVEKDTMSDQALEALSASLGT    278
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 IPPKYRELLAKKEGITGPPADSSKPIGPDDAIDALSSDFTCGSPTAAGKKTEKEESTEVLKAQSAGTVRSAAPPQEKKRKVEKDTMSDQALEALSASLGT    300
+
+P1               279 RQAEPELDLRSIKEVDEAKAKEEKLEKCGEDDETIPSEYRLKPATDKDGKPLLPEPEEKPKPRSESELIDELSEDFDRSECKEKPSKPTEKTEESKAAAP    378
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 RQAEPELDLRSIKEVDEAKAKEEKLEKCGEDDETIPSEYRLKPATDKDGKPLLPEPEEKPKPRSESELIDELSEDFDRSECKEKPSKPTEKTEESKAAAP    400
+
+P1               379 APVSEAVCRTSMCSIQSAPPEPATLKGTVPDDAVEALADSLGKKEADPEDGKPVMDKVKEKAKEEDREKLGEKEETIPPDYRLEEVKDKDGKPLLPKESK    478
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 APVSEAVCRTSMCSIQSAPPEPATLKGTVPDDAVEALADSLGKKEADPEDGKPVMDKVKEKAKEEDREKLGEKEETIPPDYRLEEVKDKDGKPLLPKESK    500
+
+P1               479 EQLPPMSEDFLLDALSEDFSGPQNASSLKFEDAKLAAAISEVVSQTPASTTQAGAPPRDTSQSDKDLDDALDKLSDSLGQRQPDPDENKPMEDKVKEKAK    578
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 EQLPPMSEDFLLDALSEDFSGPQNASSLKFEDAKLAAAISEVVSQTPASTTQAGAPPRDTSQSDKDLDDALDKLSDSLGQRQPDPDENKPMEDKVKEKAK    600
+
+P1               579 AEHRDKLGERDDTIPPEYRHLLDDNGQDKPVKPPTKKSEDSKKPADDQDPIDALSGDLDSCPSTTETSQNTAKDKCKKAASSSKAPKNGGKAKDSAKTTE    678
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               601 AEHRDKLGERDDTIPPEYRHLLDDNGQDKPVKPPTKKSEDSKKPADDQDPIDALSGDLDSCPSTTETSQNTAKDKCKKAASSSKAPKNGGKAKDSAKTTE    700
+
+P1               679 ETSKPKDD    686
+                     ||||||||
+S1               701 ETSKPKDD    708
+
+
+#---------------------------------------
+#---------------------------------------

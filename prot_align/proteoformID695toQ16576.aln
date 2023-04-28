@@ -1,0 +1,45 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 425
+# Identity:     419/425 (98.6%)
+# Similarity:    NA/425 (NA%)
+# Gaps:           0/425 (0.0%)
+# Score: 2275
+#
+#
+#=======================================
+
+P1                44 RHLRTVFEDTVEERVINEEYKIWKKNTPFLYDLVMTHALQWPSLTVQWLPEVTKPEGKDYALHWLVLGTHTSDEQNHLVVARVHIPNDDAQFDASHCDSD    143
+                           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MASKEMFEDTVEERVINEEYKIWKKNTPFLYDLVMTHALQWPSLTVQWLPEVTKPEGKDYALHWLVLGTHTSDEQNHLVVARVHIPNDDAQFDASHCDSD    100
+
+P1               144 KGEFGGFGSVTGKIECEIKINHEGEVNRARYMPQNPHIIATKTPSSDVLVFDYTKHPAKPDPSGECNPDLRLRGHQKEGYGLSWNSNLSGHLLSASDDHT    243
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 KGEFGGFGSVTGKIECEIKINHEGEVNRARYMPQNPHIIATKTPSSDVLVFDYTKHPAKPDPSGECNPDLRLRGHQKEGYGLSWNSNLSGHLLSASDDHT    200
+
+P1               244 VCLWDINAGPKEGKIVDAKAIFTGHSAVVEDVAWHLLHESLFGSVADDQKLMIWDTRSNTTSKPSHLVDAHTAEVNCLSFNPYSEFILATGSADKTVALW    343
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 VCLWDINAGPKEGKIVDAKAIFTGHSAVVEDVAWHLLHESLFGSVADDQKLMIWDTRSNTTSKPSHLVDAHTAEVNCLSFNPYSEFILATGSADKTVALW    300
+
+P1               344 DLRNLKLKLHTFESHKDEIFQVHWSPHNETILASSGTDRRLNVWDLSKIGEEQSAEDAEDGPPELLFIHGGHTAKISDFSWNPNEPWVICSVSEDNIMQI    443
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 DLRNLKLKLHTFESHKDEIFQVHWSPHNETILASSGTDRRLNVWDLSKIGEEQSAEDAEDGPPELLFIHGGHTAKISDFSWNPNEPWVICSVSEDNIMQI    400
+
+P1               444 WQMAENIYNDEESDVTTSELEGQGS    468
+                     |||||||||||||||||||||||||
+S1               401 WQMAENIYNDEESDVTTSELEGQGS    425
+
+
+#---------------------------------------
+#---------------------------------------

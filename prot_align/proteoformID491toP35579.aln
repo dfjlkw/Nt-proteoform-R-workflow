@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 542
+# Identity:     540/542 (99.6%)
+# Similarity:    NA/542 (NA%)
+# Gaps:           0/542 (0.0%)
+# Score: 2637
+#
+#
+#=======================================
+
+P1                 1 EEELDDLLVDLDHQRQSACNLEKKQKKFDQLLAEEKTISAKYAEERDRAEAEAREKETKALSLARALEEAMEQKAELERLNKQFRTEMEDLMSSKDDVGK    100
+                       ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1419 QQELDDLLVDLDHQRQSACNLEKKQKKFDQLLAEEKTISAKYAEERDRAEAEAREKETKALSLARALEEAMEQKAELERLNKQFRTEMEDLMSSKDDVGK   1518
+
+P1               101 SVHELEKSKRALEQQVEEMKTQLEELEDELQATEDAKLRLEVNLQAMKAQFERDLQGRDEQSEEKKKQLVRQVREMEAELEDERKQRSMAVAARKKLEMD    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1519 SVHELEKSKRALEQQVEEMKTQLEELEDELQATEDAKLRLEVNLQAMKAQFERDLQGRDEQSEEKKKQLVRQVREMEAELEDERKQRSMAVAARKKLEMD   1618
+
+P1               201 LKDLEAHIDSANKNRDEAIKQLRKLQAQMKDCMRELDDTRASREEILAQAKENEKKLKSMEAEMIQLQEELAAAERAKRQAQQERDELADEIANSSGKGA    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1619 LKDLEAHIDSANKNRDEAIKQLRKLQAQMKDCMRELDDTRASREEILAQAKENEKKLKSMEAEMIQLQEELAAAERAKRQAQQERDELADEIANSSGKGA   1718
+
+P1               301 LALEEKRRLEARIAQLEEELEEEQGNTELINDRLKKANLQIDQINTDLNLERSHAQKNENARQQLERQNKELKVKLQEMEGTVKSKYKASITALEAKIAQ    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1719 LALEEKRRLEARIAQLEEELEEEQGNTELINDRLKKANLQIDQINTDLNLERSHAQKNENARQQLERQNKELKVKLQEMEGTVKSKYKASITALEAKIAQ   1818
+
+P1               401 LEEQLDNETKERQAACKQVRRTEKKLKDVLLQVDDERRNAEQYKDQADKASTRLKQLKRQLEEAEEEAQRANASRRKLQRELEDATETADAMNREVSSLK    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1819 LEEQLDNETKERQAACKQVRRTEKKLKDVLLQVDDERRNAEQYKDQADKASTRLKQLKRQLEEAEEEAQRANASRRKLQRELEDATETADAMNREVSSLK   1918
+
+P1               501 NKLRRGDLPFVVPRRMARKGAGDGSDEEVDGKADGAEAKPAE    542
+                     ||||||||||||||||||||||||||||||||||||||||||
+S1              1919 NKLRRGDLPFVVPRRMARKGAGDGSDEEVDGKADGAEAKPAE   1960
+
+
+#---------------------------------------
+#---------------------------------------

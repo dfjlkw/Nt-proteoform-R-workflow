@@ -1,0 +1,53 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:06 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 629
+# Identity:     605/629 (96.2%)
+# Similarity:    NA/629 (NA%)
+# Gaps:          23/629 (3.7%)
+# Score: 3350
+#
+#
+#=======================================
+
+P1                 4 QTLLTFRDVAIEFSLEEWKCLDLAQQNLYRDVMLENYRNLFSVGLTVCKPGLITCLEQRKEPWNVKRQEAADGHPEMGFHHATQACLELLGSSDLPASAS    103
+                      |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MTLLTFRDVAIEFSLEEWKCLDLAQQNLYRDVMLENYRNLFSVGLTVCKPGLITCLEQRKEPWNVKRQEAADGHPEMGFHHATQACLELLGSSDLPASAS    100
+
+P1               104 QSAGITGVNHRAQPGLNVSVDKFTA-----------------------MSSHFTQDLLPEQGIQDAFPKRILRGYGNCGLDNLYLRKDWESLDECKLQKD    180
+                     |||||||||||||||||||||||||                       ||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 QSAGITGVNHRAQPGLNVSVDKFTALCSPGVLQTVKWFLEFRCIFSLAMSSHFTQDLLPEQGIQDAFPKRILRGYGNCGLDNLYLRKDWESLDECKLQKD    200
+
+P1               181 YNGLNQCSSTTHSKIFQYNKYVKIFDNFSNLHRRNISNTGEKPFKCQECGKSFQMLSFLTEHQKIHTGKKFQKCGECGKTFIQCSHFTEPENIDTGEKPY    280
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 YNGLNQCSSTTHSKIFQYNKYVKIFDNFSNLHRRNISNTGEKPFKCQECGKSFQMLSFLTEHQKIHTGKKFQKCGECGKTFIQCSHFTEPENIDTGEKPY    300
+
+P1               281 KCQECNNVIKTCSVLTKNRIYAGGEHYRCEEFGKVFNQCSHLTEHEHGTEEKPCKYEECSSVFISCSSLSNQQMILAGEKLSKCETWYKGFNHSPNPSKH    380
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 KCQECNNVIKTCSVLTKNRIYAGGEHYRCEEFGKVFNQCSHLTEHEHGTEEKPCKYEECSSVFISCSSLSNQQMILAGEKLSKCETWYKGFNHSPNPSKH    400
+
+P1               381 QRNEIGGKPFKCEECDSIFKWFSDLTKHKRIHTGEKPYKCDECGKAYTQSSHLSEHRRIHTGEKPYQCEECGKVFRTCSSLSNHKRTHSEEKPYTCEECG    480
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 QRNEIGGKPFKCEECDSIFKWFSDLTKHKRIHTGEKPYKCDECGKAYTQSSHLSEHRRIHTGEKPYQCEECGKVFRTCSSLSNHKRTHSEEKPYTCEECG    500
+
+P1               481 NIFKQLSDLTKHKKTHTGEKPYKCDECGKNFTQSSNLIVHKRIHTGEKPYKCEECGRVFMWFSDITKHKKTHTGEKPYKCDECGKNFTQSSNLIVHKRIH    580
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 NIFKQLSDLTKHKKTHTGEKPYKCDECGKNFTQSSNLIVHKRIHTGEKPYKCEECGRVFMWFSDITKHKKTHTGEKPYKCDECGKNFTQSSNLIVHKRIH    600
+
+P1               581 TGEKPYKCEKCGKAFTQFSHLTVHESIHT    609
+                     |||||||||||||||||||||||||||||
+S1               601 TGEKPYKCEKCGKAFTQFSHLTVHESIHT    629
+
+
+#---------------------------------------
+#---------------------------------------

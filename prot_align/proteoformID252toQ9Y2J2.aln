@@ -1,0 +1,53 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 644
+# Identity:     401/644 (62.3%)
+# Similarity:    NA/644 (NA%)
+# Gaps:         240/644 (37.3%)
+# Score: 1853.5
+#
+#
+#=======================================
+
+P1                 1 SAAEVGTGQYATTKGISQTNLITTVTPEKKAEEERDEEEDKRRKGEEVTPISAIRHEGK-----------------------------------------     59
+                        ||||||||||||||||||||||||||||||||||||||||||||||||||||||||                                         
+S1               444 LDGEVGTGQYATTKGISQTNLITTVTPEKKAEEERDEEEDKRRKGEEVTPISAIRHEGKSPGLGTDSCPLSPPSTHCAPTSPTELRRRCKENDCKLPGYE    543
+
+P1                60 ----------------------------------------------------------------------------------------------------     59
+                                                                                                                         
+S1               544 PSRAEHLPGEPALDSDGPGRPYLGDQDVAFSYRQQTGKGTTLFSFSLQLPESFPSLLDDDGYLSFPNLSETNLLPQSLQHYLPIRSPSLVPCFLFIFFFL    643
+
+P1                60 ----------------------------------------------TDSERTDTAADGETTATE------------ELEKTQDDLMKHQTNISELKRTFL    101
+                                                                   ||||||||||||||||||            ||||||||||||||||||||||||
+S1               644 LSASFSVPYALTLSFPLALCLCYLEPKAASLSASLDNDPSDSSEEETDSERTDTAADGETTATESDQEEDAELKAQELEKTQDDLMKHQTNISELKRTFL    743
+
+P1               102 ETSTDTAVTNEWEKRLSTSPVRLAARQEDAPMIEPLVPEE-----------------------------------------KMETKTESSGIETEPTVHH    160
+                     ||||||||||||||||||||||||||||||||||||||||                                         |||||||||||||||||||
+S1               744 ETSTDTAVTNEWEKRLSTSPVRLAARQEDAPMIEPLVPEETKQSSGEKLMDGSEIFSLLESARKPTEFIGGVTSTSQSWVQKMETKTESSGIETEPTVHH    843
+
+P1               161 LPLSTEKVVQETVLVEERRVVHASGDASYSAGDSGDAAAQPAFTGIKGKEGSALTEGAKEEGGEEVAKAVLEQEETAAASRERQEEQSAAIHISETLEQK    260
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               844 LPLSTEKVVQETVLVEERRVVHASGDASYSAGDSGDAAAQPAFTGIKGKEGSALTEGAKEEGGEEVAKAVLEQEETAAASRERQEEQSAAIHISETLEQK    943
+
+P1               261 PHFESSTVKTETISFGSVSPGGVKLEISTKEVPVVHTETKTITYESSQVDPGTDLEPGVLMSAQTITSETTSTTTTTHITKTVKGGISETRIEKRIVITG    360
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               944 PHFESSTVKTETISFGSVSPGGVKLEISTKEVPVVHTETKTITYESSQVDPGTDLEPGVLMSAQTITSETTSTTTTTHITKTVKGGISETRIEKRIVITG   1043
+
+P1               361 DADIDHDQALAQAIKEAKEQHPDMSVTKVVVHKETEITPEDGED    404
+                     ||||||||||||||||||||||||||||||||||||||||||||
+S1              1044 DADIDHDQALAQAIKEAKEQHPDMSVTKVVVHKETEITPEDGED   1087
+
+
+#---------------------------------------
+#---------------------------------------

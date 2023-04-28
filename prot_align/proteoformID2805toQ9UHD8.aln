@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:06 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 578
+# Identity:     563/578 (97.4%)
+# Similarity:    NA/578 (NA%)
+# Gaps:          14/578 (2.4%)
+# Score: 2871.5
+#
+#
+#=======================================
+
+P1                 1 SDPAVNAQLDGIISDFEALKRSFEVEEVETPNSTPPRRVQTPLLRATVASSTQKFQDLGVKNSEPSARHVDSLSQRSPKASLRRVELSGPKAAEPVSRRT    100
+                     | ||              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                23 SGPA--------------LKRSFEVEEVETPNSTPPRRVQTPLLRATVASSTQKFQDLGVKNSEPSARHVDSLSQRSPKASLRRVELSGPKAAEPVSRRT    108
+
+P1               101 ELSIDISSKQVENAGAIGPSRFGLKRAEVLGHKTPEPAPRRTEITIVKPQESAHRRMEPPASKVPEVPTAPATDAAPKRVEIQMPKPAEAPTAPSPAQTL    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               109 ELSIDISSKQVENAGAIGPSRFGLKRAEVLGHKTPEPAPRRTEITIVKPQESAHRRMEPPASKVPEVPTAPATDAAPKRVEIQMPKPAEAPTAPSPAQTL    208
+
+P1               201 ENSEPAPVSQLQSRLEPKPQPPVAEATPRSQEATEAAPSCVGDMADTPRDAGLKQAPASRNEKAPVDFGYVGIDSILEQMRRKAMKQGFEFNIMVVGQSG    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               209 ENSEPAPVSQLQSRLEPKPQPPVAEATPRSQEATEAAPSCVGDMADTPRDAGLKQAPASRNEKAPVDFGYVGIDSILEQMRRKAMKQGFEFNIMVVGQSG    308
+
+P1               301 LGKSTLINTLFKSKISRKSVQPTSEERIPKTIEIKSITHDIEEKGVRMKLTVIDTPGFGDHINNENCWQPIMKFINDQYEKYLQEEVNINRKKRIPDTRV    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               309 LGKSTLINTLFKSKISRKSVQPTSEERIPKTIEIKSITHDIEEKGVRMKLTVIDTPGFGDHINNENCWQPIMKFINDQYEKYLQEEVNINRKKRIPDTRV    408
+
+P1               401 HCCLYFIPATGHSLRPLDIEFMKRLSKVVNIVPVIAKADTLTLEERVHFKQRITADLLSNGIDVYPQKEFDEDSEDRLVNEKFREMIPFAVVGSDHEYQV    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               409 HCCLYFIPATGHSLRPLDIEFMKRLSKVVNIVPVIAKADTLTLEERVHFKQRITADLLSNGIDVYPQKEFDEDSEDRLVNEKFREMIPFAVVGSDHEYQV    508
+
+P1               501 NGKRILGRKTKWGTIEVENTTHCEFAYLRDLLIRTHMQNIKDITSSIHFEAYRVKRLNEGSSAMANGMEEKEPEAPEM    578
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               509 NGKRILGRKTKWGTIEVENTTHCEFAYLRDLLIRTHMQNIKDITSSIHFEAYRVKRLNEGSSAMANGMEEKEPEAPEM    586
+
+
+#---------------------------------------
+#---------------------------------------

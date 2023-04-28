@@ -1,0 +1,57 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 743
+# Identity:     680/743 (91.5%)
+# Similarity:    NA/743 (NA%)
+# Gaps:          63/743 (8.5%)
+# Score: 3288
+#
+#
+#=======================================
+
+P1                23 MNNPSETSKPSMESGDGNTGTQTNGLDFQKQPVPVGGAISTAQAQAFLGHLHQVQLAGTSLQAAAQSLNVQSKSNEESGDSQQPSQPSQQPSVQAAIPQT    122
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MNNPSETSKPSMESGDGNTGTQTNGLDFQKQPVPVGGAISTAQAQAFLGHLHQVQLAGTSLQAAAQSLNVQSKSNEESGDSQQPSQPSQQPSVQAAIPQT    100
+
+P1               123 QLMLAGGQITG---------------------------------------------------------------DLQQLQQLQQQNLNLQQFVLVHPTTN    159
+                     |||||||||||                                                               ||||||||||||||||||||||||||
+S1               101 QLMLAGGQITGLTLTPAQQQLLLQQAQAQAQLLAAAVQQHSASQQHSAAGATISASAATPMTQIPLSQPIQIAQDLQQLQQLQQQNLNLQQFVLVHPTTN    200
+
+P1               160 LQPAQFIISQTPQGQQGLLQAQNLLTQLPQQSQANLLQSQPSITLTSQPATPTRTIAATPIQTLPQSQSTPKRIDTPSLEEPSDLEELEQFAKTFKQRRI    259
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 LQPAQFIISQTPQGQQGLLQAQNLLTQLPQQSQANLLQSQPSITLTSQPATPTRTIAATPIQTLPQSQSTPKRIDTPSLEEPSDLEELEQFAKTFKQRRI    300
+
+P1               260 KLGFTQGDVGLAMGKLYGNDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAENLSSDSSLSSPSALNSPGIEGLSRRRKKRTSIETNIRVALEKSFLE    359
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 KLGFTQGDVGLAMGKLYGNDFSQTTISRFEALNLSFKNMCKLKPLLEKWLNDAENLSSDSSLSSPSALNSPGIEGLSRRRKKRTSIETNIRVALEKSFLE    400
+
+P1               360 NQKPTSEEITMIADQLNMEKEVIRVWFCNRRQKEKRINPPSSGGTSSSPIKAIFPSPTSLVATTPSLVTSSAATTLTVSPVLPLTSAAVTNLSVTGTSDT    459
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 NQKPTSEEITMIADQLNMEKEVIRVWFCNRRQKEKRINPPSSGGTSSSPIKAIFPSPTSLVATTPSLVTSSAATTLTVSPVLPLTSAAVTNLSVTGTSDT    500
+
+P1               460 TSNNTATVISTAPPASSAVTSPSLSPSPSASASTSEASSASETSTTQTTSTPLSSPLGTSQVMVTASGLQTAAAAALQGAAQLPANASLAAMAAAAGLNP    559
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 TSNNTATVISTAPPASSAVTSPSLSPSPSASASTSEASSASETSTTQTTSTPLSSPLGTSQVMVTASGLQTAAAAALQGAAQLPANASLAAMAAAAGLNP    600
+
+P1               560 SLMAPSQFAAGGALLSLNPGTLSGALSPALMSNSTLATIQALASGGSLPITSLDATGNLVFANAGGAPNIVTAPLFLNPQNLSLLTSNPVSLVSAAAASA    659
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               601 SLMAPSQFAAGGALLSLNPGTLSGALSPALMSNSTLATIQALASGGSLPITSLDATGNLVFANAGGAPNIVTAPLFLNPQNLSLLTSNPVSLVSAAAASA    700
+
+P1               660 GNSAPVASLHATSTSAESIQNSLFTVASASGAASTTTTASKAQ    702
+                     |||||||||||||||||||||||||||||||||||||||||||
+S1               701 GNSAPVASLHATSTSAESIQNSLFTVASASGAASTTTTASKAQ    743
+
+
+#---------------------------------------
+#---------------------------------------

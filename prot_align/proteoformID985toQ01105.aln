@@ -1,0 +1,37 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 285
+# Identity:     260/285 (91.2%)
+# Similarity:    NA/285 (NA%)
+# Gaps:           9/285 (3.2%)
+# Score: 1353
+#
+#
+#=======================================
+
+P1                 1 SAPAAKVSKKELNSNHDGADETS---------EKEQQEAIEHIDEVQNEIDRLNEQASEEILKVEQKYNKLRQPFFQKRSELIAKIPNFWVTTFVNHPQV     91
+                       |     ||       |  |||         ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 6 QSPLPPQKKKPRPPPALGPEETSASAGLPKKGEKEQQEAIEHIDEVQNEIDRLNEQASEEILKVEQKYNKLRQPFFQKRSELIAKIPNFWVTTFVNHPQV    105
+
+P1                92 SALLGEEDEEALHYLTRVEVTEFEDIKSGYRIDFYFDENPYFENKVLSKEFHLNESGDPSSKSTEIKWKSGKDLTKRSSQTQNKASRKRQHEEPESFFTW    191
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               106 SALLGEEDEEALHYLTRVEVTEFEDIKSGYRIDFYFDENPYFENKVLSKEFHLNESGDPSSKSTEIKWKSGKDLTKRSSQTQNKASRKRQHEEPESFFTW    205
+
+P1               192 FTDHSDAGADELGEVIKDDIWPNPLQYYLVPDMDDEEGEGEEDDDDDEEEEGLEDIDEEGDEDEGEEDEDDDEGEEGEEDEGEDD    276
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               206 FTDHSDAGADELGEVIKDDIWPNPLQYYLVPDMDDEEGEGEEDDDDDEEEEGLEDIDEEGDEDEGEEDEDDDEGEEGEEDEGEDD    290
+
+
+#---------------------------------------
+#---------------------------------------

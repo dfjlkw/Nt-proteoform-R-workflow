@@ -1,0 +1,61 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:01 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 869
+# Identity:     866/869 (99.7%)
+# Similarity:    NA/869 (NA%)
+# Gaps:           0/869 (0.0%)
+# Score: 4553
+#
+#
+#=======================================
+
+P1                 1 SVPNVLAKALYDNVAESPDELSFRKGDIMTVLEQDTQGLDGWWLCSLHGRQGIVPGNRLKILVGMYDKKPAGPGPGPPATPAQPQPGLHAPAPPASQYTP    100
+                        |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 2 NHLNVLAKALYDNVAESPDELSFRKGDIMTVLEQDTQGLDGWWLCSLHGRQGIVPGNRLKILVGMYDKKPAGPGPGPPATPAQPQPGLHAPAPPASQYTP    101
+
+P1               101 MLPNTYQPQPDSVYLVPTPSKAQQGLYQVPGPSPQFQSPPAKQTSTFSKQTPHHPFPSPATDLYQVPPGPGGPAQDIYQVPPSAGMGHDIYQVPPSMDTR    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               102 MLPNTYQPQPDSVYLVPTPSKAQQGLYQVPGPSPQFQSPPAKQTSTFSKQTPHHPFPSPATDLYQVPPGPGGPAQDIYQVPPSAGMGHDIYQVPPSMDTR    201
+
+P1               201 SWEGTKPPAKVVVPTRVGQGYVYEAAQPEQDEYDIPRHLLAPGPQDIYDVPPVRGLLPSQYGQEVYDTPPMAVKGPNGRDPLLEVYDVPPSVEKGLPPSN    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               202 SWEGTKPPAKVVVPTRVGQGYVYEAAQPEQDEYDIPRHLLAPGPQDIYDVPPVRGLLPSQYGQEVYDTPPMAVKGPNGRDPLLEVYDVPPSVEKGLPPSN    301
+
+P1               301 HHAVYDVPPSVSKDVPDGPLLREETYDVPPAFAKAKPFDPARTPLVLAAPPPDSPPAEDVYDVPPPAPDLYDVPPGLRRPGPGTLYDVPRERVLPPEVAD    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               302 HHAVYDVPPSVSKDVPDGPLLREETYDVPPAFAKAKPFDPARTPLVLAAPPPDSPPAEDVYDVPPPAPDLYDVPPGLRRPGPGTLYDVPRERVLPPEVAD    401
+
+P1               401 GGVVDSGVYAVPPPAEREAPAEGKRLSASSTGSTRSSQSASSLEVAGPGREPLELEVAVEALARLQQGVSATVAHLLDLAGSAGATGSWRSPSEPQEPLV    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               402 GGVVDSGVYAVPPPAEREAPAEGKRLSASSTGSTRSSQSASSLEVAGPGREPLELEVAVEALARLQQGVSATVAHLLDLAGSAGATGSWRSPSEPQEPLV    501
+
+P1               501 QDLQAAVAAVQSAVHELLEFARSAVGNAAHTSDRALHAKLSRQLQKMEDVHQTLVAHGQALDAGRGGSGATLEDLDRLVACSRAVPEDAKQLASFLHGNA    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               502 QDLQAAVAAVQSAVHELLEFARSAVGNAAHTSDRALHAKLSRQLQKMEDVHQTLVAHGQALDAGRGGSGATLEDLDRLVACSRAVPEDAKQLASFLHGNA    601
+
+P1               601 SLLFRRTKATAPGPEGGGTLHPNPTDKTSSIQSRPLPSPPKFTSQDSPDGQYENSEGGWMEDYDYVHLQGKEEFEKTQKELLEKGSITRQGKSQLELQQL    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               602 SLLFRRTKATAPGPEGGGTLHPNPTDKTSSIQSRPLPSPPKFTSQDSPDGQYENSEGGWMEDYDYVHLQGKEEFEKTQKELLEKGSITRQGKSQLELQQL    701
+
+P1               701 KQFERLEQEVSRPIDHDLANWTPAQPLAPGRTGGLGPSDRQLLLFYLEQCEANLTTLTNAVDAFFTAVATNQPPKIFVAHSKFVILSAHKLVFIGDTLSR    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               702 KQFERLEQEVSRPIDHDLANWTPAQPLAPGRTGGLGPSDRQLLLFYLEQCEANLTTLTNAVDAFFTAVATNQPPKIFVAHSKFVILSAHKLVFIGDTLSR    801
+
+P1               801 QAKAADVRSQVTHYSNLLCDLLRGIVATTKAAALQYPSPSAAQDMVERVKELGHSTQQFRRVLGQLAAA    869
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               802 QAKAADVRSQVTHYSNLLCDLLRGIVATTKAAALQYPSPSAAQDMVERVKELGHSTQQFRRVLGQLAAA    870
+
+
+#---------------------------------------
+#---------------------------------------

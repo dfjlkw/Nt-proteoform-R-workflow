@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 561
+# Identity:     391/561 (69.7%)
+# Similarity:    NA/561 (NA%)
+# Gaps:         153/561 (27.3%)
+# Score: 1889
+#
+#
+#=======================================
+
+P1                 1 PLPVQVFNLQPASSVSGSGGAESQDRMRDSSAPSSASSSVTDLYCTPHSSRSDLVLPGMAGDFSLSASLSACTLLYEGAVEPMQIDVDPQEDPQNAPD--     98
+                     ||||||||||                                                                   |||||||||||||||||||||  
+S1                 2 PLPVQVFNLQ-------------------------------------------------------------------GAVEPMQIDVDPQEDPQNAPDVN     34
+
+P1                99 --------------------------------------------------------------------------------AIPESGVEPPALDTAWVEAT    118
+                                                                                                     ||||||||||||||||||||
+S1                35 YVVENPSLDLEQYAASYSGLMRIERLQFIADHCPTLRVEALKMALSFVQRTFNVDMYEEIHRKLSEATRSSLRELQNAPDAIPESGVEPPALDTAWVEAT    134
+
+P1               119 RKKALLKLEKLDTDLKNYKGNSIKESIRRGHDDLGDHYLDCGDLSNALKCYSRARDYCTSAKHVINMCLNVIKVSVYLQNWSHVLSYVSKAESTPEIAEQ    218
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               135 RKKALLKLEKLDTDLKNYKGNSIKESIRRGHDDLGDHYLDCGDLSNALKCYSRARDYCTSAKHVINMCLNVIKVSVYLQNWSHVLSYVSKAESTPEIAEQ    234
+
+P1               219 RGERDSQTQAILTKLKCAAGLAELAARKYKQAAKCLLLASFDHCDFPELLSPSNVAIYGGLCALATFDRQELQRNVISSSSFKLFLELEPQVRDIIFKFY    318
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               235 RGERDSQTQAILTKLKCAAGLAELAARKYKQAAKCLLLASFDHCDFPELLSPSNVAIYGGLCALATFDRQELQRNVISSSSFKLFLELEPQVRDIIFKFY    334
+
+P1               319 ESKYASCLKMLDEMKDNLLLDMYLAPHVRTLYTQIRNRALIQYFSPYVSADMHRMAAAFNTTVAALEDELTQLILEGLISARVDSHSKILYARDVDQRST    418
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               335 ESKYASCLKMLDEMKDNLLLDMYLAPHVRTLYTQIRNRALIQYFSPYVSADMHRMAAAFNTTVAALEDELTQLILEGLISARVDSHSKILYARDVDQRST    434
+
+P1               419 TFEKSLLMGKEFQRRAKAMMLRAAVLRNQIHVKSPPTSTDLGPPGGSVLPAAQLRGLATGC    479
+                     ||||||||||||||||||||||||||||||||||||     |       ||       |  
+S1               435 TFEKSLLMGKEFQRRAKAMMLRAAVLRNQIHVKSPPREGSQG----ELTPANSQSRMSTNM    491
+
+
+#---------------------------------------
+#---------------------------------------

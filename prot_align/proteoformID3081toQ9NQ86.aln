@@ -1,0 +1,57 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:06 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 728
+# Identity:     710/728 (97.5%)
+# Similarity:    NA/728 (NA%)
+# Gaps:          12/728 (1.6%)
+# Score: 3763.5
+#
+#
+#=======================================
+
+P1                 1 MEGDGSDSP------------VTIKNIERELICPACKELFTHPLILPCQHSICHKCVKELLLTLDDSFNDVGSDNSNQSSPRLRLPSPSMDKIDRINRPG     88
+                     |   |  |             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MSESGEMSEFGYIMELIAKGKVTIKNIERELICPACKELFTHPLILPCQHSICHKCVKELLLTLDDSFNDVGSDNSNQSSPRLRLPSPSMDKIDRINRPG    100
+
+P1                89 WKRNSLTPRTTVFPCPGCEHDVDLGERGINGLFRNFTLETIVERYRQAARAATAIMCDLCKPPPQESTKSCMDCSASYCNECFKIHHPWGTIKAQHEYVG    188
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 WKRNSLTPRTTVFPCPGCEHDVDLGERGINGLFRNFTLETIVERYRQAARAATAIMCDLCKPPPQESTKSCMDCSASYCNECFKIHHPWGTIKAQHEYVG    200
+
+P1               189 PTTNFRPKILMCPEHETERINMYCELCRRPVCHLCKLGGNHANHRVTTMSSAYKTLKEKLSKDIDYLIGKESQVKSQISELNLLMKETECNGERAKEEAI    288
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 PTTNFRPKILMCPEHETERINMYCELCRRPVCHLCKLGGNHANHRVTTMSSAYKTLKEKLSKDIDYLIGKESQVKSQISELNLLMKETECNGERAKEEAI    300
+
+P1               289 THFEKLFEVLEERKSSVLKAIDSSKKLRLDKFQTQMEEYQGLLENNGLVGYAQEVLKETDQSCFVQTAKQLHLRIQKATESLKSFRPAAQTSFEDYVVNT    388
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 THFEKLFEVLEERKSSVLKAIDSSKKLRLDKFQTQMEEYQGLLENNGLVGYAQEVLKETDQSCFVQTAKQLHLRIQKATESLKSFRPAAQTSFEDYVVNT    400
+
+P1               389 SKQTELLGELSFFSSGIDVPEINEEQSKVYNNALINWHHPEKDKADSYVLEYRKINRDDEMSWNEIEVCGTSKIIQDLENSSTYAFRVRAYKGSICSPCS    488
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 SKQTELLGELSFFSSGIDVPEINEEQSKVYNNALINWHHPEKDKADSYVLEYRKINRDDEMSWNEIEVCGTSKIIQDLENSSTYAFRVRAYKGSICSPCS    500
+
+P1               489 RELILHTPPAPVFSFLFDEKCGYNNEHLLLNLKRDRVESRAGFNLLLAAERIQVGYYTSLDYIIGDTGITKGKHFWAFRVEPYSYLVKVGVASSDKLQEW    588
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 RELILHTPPAPVFSFLFDEKCGYNNEHLLLNLKRDRVESRAGFNLLLAAERIQVGYYTSLDYIIGDTGITKGKHFWAFRVEPYSYLVKVGVASSDKLQEW    600
+
+P1               589 LRSPRDAVSPRYEQDSGHDSGSEDACFDSSQPFTLVTIGMQKFFIPKSPTSSNEPENRVLPMPTSIGIFLDCDKGKVDFYDMDQMKCLYERQVDCSHTLY    688
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               601 LRSPRDAVSPRYEQDSGHDSGSEDACFDSSQPFTLVTIGMQKFFIPKSPTSSNEPENRVLPMPTSIGIFLDCDKGKVDFYDMDQMKCLYERQVDCSHTLY    700
+
+P1               689 PAFALMGSGGIQLEEPITAKYLEYQEDM    716
+                     ||||||||||||||||||||||||||||
+S1               701 PAFALMGSGGIQLEEPITAKYLEYQEDM    728
+
+
+#---------------------------------------
+#---------------------------------------

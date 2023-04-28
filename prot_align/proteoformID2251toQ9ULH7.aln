@@ -1,0 +1,69 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:05 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 1088
+# Identity:    1005/1088 (92.4%)
+# Similarity:    NA/1088 (NA%)
+# Gaps:          70/1088 (6.4%)
+# Score: 5062.5
+#
+#
+#=======================================
+
+P1                32 FQELSLQSSQNLP---------PLNER-----------KNVLQLRLQQRRTREQLVDQGIMPPLKSPAAFHEQIKSLERARTENFLKHKIRSRPDRSELV    111
+                         |    |  |         || |            | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MIDSSKKQQQGFPEILTAGDFEPLKEKECLEGSNQKSLKEVLQLRLQQRRTREQLVDQGIMPPLKSPAAFHEQIKSLERARTENFLKHKIRSRPDRSELV    100
+
+P1               112 RMHILEETFAEPSLQATQMKLKRARLADDLNEKIAQRPGPMELVEKNILPVDSSVKEAIIGVGKEDYPHTQGDFSFDEDSSDALSPDQPASQESQGSAAS    211
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 RMHILEETFAEPSLQATQMKLKRARLADDLNEKIAQRPGPMELVEKNILPVDSSVKEAIIGVGKEDYPHTQGDFSFDEDSSDALSPDQPASQESQGSAAS    200
+
+P1               212 PSEPKVSESPSPVTTNTPAQFASVSPTVPEFLKTPPTADQPPPRPAAPVLPTNTVSSAKPGPALVKQSHPKNPNDKHRSKKCKDPKPRVKKLKYHQYIPP    311
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 PSEPKVSESPSPVTTNTPAQFASVSPTVPEFLKTPPTADQPPPRPAAPVLPTNTVSSAKPGPALVKQSHPKNPNDKHRSKKCKDPKPRVKKLKYHQYIPP    300
+
+P1               312 DQKGEKNEPQMDSNYARLLQQQQLFLQLQILSQQKQHYNYQTILPAPFKPLNDKNSNSGNSALNNATPNTPRQNTSTPVRKPGPLPSSLDDLKVSELKTE    411
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 DQKGEKNEPQMDSNYARLLQQQQLFLQLQILSQQKQHYNYQTILPAPFKPLNDKNSNSGNSALNNATPNTPRQNTSTPVRKPGPLPSSLDDLKVSELKTE    400
+
+P1               412 LKLRGLPVSGTKPDLIERLKPYQEVNSSGLAAGGIVAVSSSAIVTSNPEVTVALPVTTLHNTVTSSVSTLKAELPPTGTSNATRVENVHSPLPISPSPSE    511
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 LKLRGLPVSGTKPDLIERLKPYQEVNSSGLAAGGIVAVSSSAIVTSNPEVTVALPVTTLHNTVTSSVSTLKAELPPTGTSNATRVENVHSPLPISPSPSE    500
+
+P1               512 QSSLSTDDTNMADTFTEIMTMMSPSQFLSSSPLRMTNNEDSLSPTSSTLSNLELDAAEKDRKLQEKEKQIEELKRKLEQEQKLVEVLKMQLEVEKRGQQQ    611
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 QSSLSTDDTNMADTFTEIMTMMSPSQFLSSSPLRMTNNEDSLSPTSSTLSNLELDAAEKDRKLQEKEKQIEELKRKLEQEQKLVEVLKMQLEVEKRGQQQ    600
+
+P1               612 RPLEAQPSAPGHSVKSDQKHGSLGSSIKDEASLPDCSSSRQPIPVASHAVGQPVSTGGQTLVAKKAVVIKQEVPVGQAEQQSVVSQFY------------    699
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||            
+S1               601 RPLEAQPSAPGHSVKSDQKHGSLGSSIKDEASLPDCSSSRQPIPVASHAVGQPVSTGGQTLVAKKAVVIKQEVPVGQAEQQSVVSQFYVSSQGQPPPAVV    700
+
+P1               700 --------------------------------------TSPQAGMQTQPQIATAAQIPTAALASGLAPTVPQTQDTFPQHVLSQPQQVRKVFTNSASSNT    761
+                                                           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               701 AQPQALLTTQTAQLLLPVSIQGSSVTSVQLPVGSLKLQTSPQAGMQTQPQIATAAQIPTAALASGLAPTVPQTQDTFPQHVLSQPQQVRKVFTNSASSNT    800
+
+P1               762 VLPYQRHPAPAVQQPFINKASNSVLQSRNAPLPSLQNGPNTPNKPSSPPPPQQFVVQHSLFGSPVAKTKDPPRYEEAIKQTRSTQAPLPEISNAHSQQMD    861
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               801 VLPYQRHPAPAVQQPFINKASNSVLQSRNAPLPSLQNGPNTPNKPSSPPPPQQFVVQHSLFGSPVAKTKDPPRYEEAIKQTRSTQAPLPEISNAHSQQMD    900
+
+P1               862 DLFDILIKSGEISLPIKEEPSPISKMRPVTASITTMPVNTVVSRPPPQVQMAPPVSLEPMGSLSASLENQLEAFLDGTLPSANEIPPLQSSSEDREPFSL    961
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               901 DLFDILIKSGEISLPIKEEPSPISKMRPVTASITTMPVNTVVSRPPPQVQMAPPVSLEPMGSLSASLENQLEAFLDGTLPSANEIPPLQSSSEDREPFSL   1000
+
+P1               962 IEDLQNDLLSHSGMLDHSHSPMETSETQFAAGTPCLSLDLSDSNLDNMEWLDITMPNSSSGLTPLSTTAPSMFSADFLDPQDLPLPWD   1049
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1001 IEDLQNDLLSHSGMLDHSHSPMETSETQFAAGTPCLSLDLSDSNLDNMEWLDITMPNSSSGLTPLSTTAPSMFSADFLDPQDLPLPWD   1088
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,57 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 786
+# Identity:     722/786 (91.9%)
+# Similarity:    NA/786 (NA%)
+# Gaps:          64/786 (8.1%)
+# Score: 3562.5
+#
+#
+#=======================================
+
+P1                 1 MESTATAAVAAELVSADKIEDVPAPSTSADKVE----------------------------------------------------------------RME     36
+                     |||||||||||||||||||||||||||||||||                                                                |||
+S1                 3 MESTATAAVAAELVSADKIEDVPAPSTSADKVESLDVDSEAKKLLGLGQKHLVMGDIPAAVNAFQEAASLLGKKYGETANECGEAFFFYGKSLLELARME    102
+
+P1                37 NGVLGNALEGVHVEEEEGEKTEDESLVENNDNIDEEAREELREQVYDAMGEKEEAKKTEDKSLAKPETDKEQDSEMEKGGREDMDISKSAEEPQEKVDLT    136
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               103 NGVLGNALEGVHVEEEEGEKTEDESLVENNDNIDEEAREELREQVYDAMGEKEEAKKTEDKSLAKPETDKEQDSEMEKGGREDMDISKSAEEPQEKVDLT    202
+
+P1               137 LDWLTETSEEAKGGAAPEGPNEAEVTSGKPEQEVPDAEEEKSVSGTDVQEECREKGGQEKQGEVIVSIEEKPKEVSEEQPVVTLEKQGTAVEVEAESLDP    236
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               203 LDWLTETSEEAKGGAAPEGPNEAEVTSGKPEQEVPDAEEEKSVSGTDVQEECREKGGQEKQGEVIVSIEEKPKEVSEEQPVVTLEKQGTAVEVEAESLDP    302
+
+P1               237 TVKPVDVGGDEPEEKVVTSENEAGKAVLEQLVGQEVPPAEESPEVTTEAAEASAVEAGSEVSEKPGQEAPVLPKDGAVNGPSVVGDQTPIEPQTSIERLT    336
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               303 TVKPVDVGGDEPEEKVVTSENEAGKAVLEQLVGQEVPPAEESPEVTTEAAEASAVEAGSEVSEKPGQEAPVLPKDGAVNGPSVVGDQTPIEPQTSIERLT    402
+
+P1               337 ETKDGSGLEEKVRAKLVPSQEETKLSVEESEAAGDGVDTKVAQGATEKSPEDKVQIAANEETQEREEQMKEGEETEGSEEDDKENDKTEEMPNDSVLENK    436
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               403 ETKDGSGLEEKVRAKLVPSQEETKLSVEESEAAGDGVDTKVAQGATEKSPEDKVQIAANEETQEREEQMKEGEETEGSEEDDKENDKTEEMPNDSVLENK    502
+
+P1               437 SLQENEEEEIGNLELAWDMLDLAKIIFKRQETKEAQLYAAQAHLKLGEVSVESENYVQAVEEFQSCLNLQEQYLEAHDRLLAETHYQLGLAYGYNSQYDE    536
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               503 SLQENEEEEIGNLELAWDMLDLAKIIFKRQETKEAQLYAAQAHLKLGEVSVESENYVQAVEEFQSCLNLQEQYLEAHDRLLAETHYQLGLAYGYNSQYDE    602
+
+P1               537 AVAQFSKSIEVIENRMAVLNEQVKEAEGSSAEYKKEIEELKELLPEIREKIEDAKESQRSGNVAELALKATLVESSTSGFTPGGGGSSVSMIASRKPTDG    636
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               603 AVAQFSKSIEVIENRMAVLNEQVKEAEGSSAEYKKEIEELKELLPEIREKIEDAKESQRSGNVAELALKATLVESSTSGFTPGGGGSSVSMIASRKPTDG    702
+
+P1               637 ASSSNCVTDISHLVRKKRKPEEESPRKDDAKKAKQEPEVNGGSGDAVPSGNEVSENMEEEAENQAESRAAVEGTVEAGATVESTAC    722
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               703 ASSSNCVTDISHLVRKKRKPEEESPRKDDAKKAKQEPEVNGGSGDAVPSGNEVSENMEEEAENQAESRAAVEGTVEAGATVESTAC    788
+
+
+#---------------------------------------
+#---------------------------------------

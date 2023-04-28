@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:05 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 582
+# Identity:     544/582 (93.5%)
+# Similarity:    NA/582 (NA%)
+# Gaps:          30/582 (5.2%)
+# Score: 2768
+#
+#
+#=======================================
+
+P1                11 EGISLESSEEAELQREAMQQVLDNLGSLPSATGAAELDLIFLRGIMESPIVRSLAK------------------------AHERLEETKLEAVRDNNLEL     86
+                            || |      |||||||||||||||||||||||||||||||||||||||                        ||||||||||||||||||||
+S1                 1 MPVAATNSETA------MQQVLDNLGSLPSATGAAELDLIFLRGIMESPIVRSLAKVIMVLWFMQQNVFVPMKYMLKYFGAHERLEETKLEAVRDNNLEL     94
+
+P1                87 VQEILRDLAHVAEQSSTAAELAHILQEPHFQSLLETHDSVASKTYETPPPSPGLDPTFSNQPVPPDAVRMVGIRKTAGEHLGVTFRVEGGELVIARILHG    186
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                95 VQEILRDLAHVAEQSSTAAELAHILQEPHFQSLLETHDSVASKTYETPPPSPGLDPTFSNQPVPPDAVRMVGIRKTAGEHLGVTFRVEGGELVIARILHG    194
+
+P1               187 GMVAQQGLLHVGDIIKEVNGQPVGSDPRALQELLRNASGSVILKILPSYQEPHLPRQVFVKCHFDYDPARDSLIPCKEAGLRFNAGDLLQIVNQDDANWW    286
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               195 GMVAQQGLLHVGDIIKEVNGQPVGSDPRALQELLRNASGSVILKILPSYQEPHLPRQVFVKCHFDYDPARDSLIPCKEAGLRFNAGDLLQIVNQDDANWW    294
+
+P1               287 QACHVEGGSAGLIPSQLLEEKRKAFVKRDLELTPNSGTLCGSLSGKKKKRMMYLTTKNAEFDRHELLIYEEVARMPPFRRKTLVLIGAQGVGRRSLKNKL    386
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               295 QACHVEGGSAGLIPSQLLEEKRKAFVKRDLELTPNSGTLCGSLSGKKKKRMMYLTTKNAEFDRHELLIYEEVARMPPFRRKTLVLIGAQGVGRRSLKNKL    394
+
+P1               387 IMWDPDRYGTTVPYTSRRPKDSEREGQGYSFVSRGEMEADVRAGRYLEHGEYEGNLYGTRIDSIRGVVAAGKVCVLDVNPQAVKVLRTAEFVPYVVFIEA    486
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               395 IMWDPDRYGTTVPYTSRRPKDSEREGQGYSFVSRGEMEADVRAGRYLEHGEYEGNLYGTRIDSIRGVVAAGKVCVLDVNPQAVKVLRTAEFVPYVVFIEA    494
+
+P1               487 PDFETLRAMNRAALESGISTKQLTEADLRRTVEESSRIQRGYGHYFDLCLVNSNLERTFRELQTAMEKLRTEPQWVPVSWVY    568
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               495 PDFETLRAMNRAALESGISTKQLTEADLRRTVEESSRIQRGYGHYFDLCLVNSNLERTFRELQTAMEKLRTEPQWVPVSWVY    576
+
+
+#---------------------------------------
+#---------------------------------------

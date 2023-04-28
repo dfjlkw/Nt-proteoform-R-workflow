@@ -1,0 +1,205 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 4477
+# Identity:    1732/4477 (38.7%)
+# Similarity:    NA/4477 (NA%)
+# Gaps:        2720/4477 (60.8%)
+# Score: 7492
+#
+#
+#=======================================
+
+P1                 1 ASSASSSPAGTEDSAPAQGGFGSDYSRSSR----KSDANASYLRAARAGHLEKALDYIKNGVDINICNQNGLNALHLASKEGHVEVVSELLQREANVDAA     96
+                     | |        |  |             ||    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 4 AASQLKKNRDLEINAEEEPEKKRKHRKRSRDRKKKSDANASYLRAARAGHLEKALDYIKNGVDINICNQNGLNALHLASKEGHVEVVSELLQREANVDAA    103
+
+P1                97 TKKGNTALHIASLAGQAEVVKVLVTNGANVNAQSQNGFTPLYMAAQENHLEVVKFLLDNGASQSLATEDGFTPLAVALQQGHDQVVSLLLENDTKGKVRL    196
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               104 TKKGNTALHIASLAGQAEVVKVLVTNGANVNAQSQNGFTPLYMAAQENHLEVVKFLLDNGASQSLATEDGFTPLAVALQQGHDQVVSLLLENDTKGKVRL    203
+
+P1               197 PALHIAARKDDTKAAALLLQNDNNADVESKSGFTPLHIAAHYGNINVATLLLNRAAAVDFTARNDITPLHVASKRGNANMVKLLLDRGAKIDAKTRDGLT    296
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               204 PALHIAARKDDTKAAALLLQNDNNADVESKSGFTPLHIAAHYGNINVATLLLNRAAAVDFTARNDITPLHVASKRGNANMVKLLLDRGAKIDAKTRDGLT    303
+
+P1               297 PLHCGARSGHEQVVEMLLDRAAPILSKTKNGLSPLHMATQGDHLNCVQLLLQHNVPVDDVTNDYLTALHVAAHCGHYKVAKVLLDKKANPNAKALNGFTP    396
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               304 PLHCGARSGHEQVVEMLLDRAAPILSKTKNGLSPLHMATQGDHLNCVQLLLQHNVPVDDVTNDYLTALHVAAHCGHYKVAKVLLDKKANPNAKALNGFTP    403
+
+P1               397 LHIACKKNRIKVMELLLKHGASIQAVTESGLTPIHVAAFMGHVNIVSQLMHHGASPNTTNVRGETALHMAARSGQAEVVRYLVQDGAQVEAKAKDDQTPL    496
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               404 LHIACKKNRIKVMELLLKHGASIQAVTESGLTPIHVAAFMGHVNIVSQLMHHGASPNTTNVRGETALHMAARSGQAEVVRYLVQDGAQVEAKAKDDQTPL    503
+
+P1               497 HISARLGKADIVQQLLQQGASPNAATTSGYTPLHLSAREGHEDVAAFLLDHGASLSITTKKGFTPLHVAAKYGKLEVANLLLQKSASPDAAGKSGLTPLH    596
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               504 HISARLGKADIVQQLLQQGASPNAATTSGYTPLHLSAREGHEDVAAFLLDHGASLSITTKKGFTPLHVAAKYGKLEVANLLLQKSASPDAAGKSGLTPLH    603
+
+P1               597 VAAHYDNQKVALLLLDQGASPHAAAKNGYTPLHIAAKKNQMDIATTLLEYGADANAVTRQGIASVHLAAQEGHVDMVSLLLGRNANVNLSNKSGLTPLHL    696
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               604 VAAHYDNQKVALLLLDQGASPHAAAKNGYTPLHIAAKKNQMDIATTLLEYGADANAVTRQGIASVHLAAQEGHVDMVSLLLGRNANVNLSNKSGLTPLHL    703
+
+P1               697 AAQEDRVNVAEVLVNQGAHVDAQTKMGYTPLHVGCHYGNIKIVNFLLQHSAKVNAKTKNGYTPLHQAAQQGHTHIINVLLQNNASPNELTVNGNTALGIA    796
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               704 AAQEDRVNVAEVLVNQGAHVDAQTKMGYTPLHVGCHYGNIKIVNFLLQHSAKVNAKTKNGYTPLHQAAQQGHTHIINVLLQNNASPNELTVNGNTALGIA    803
+
+P1               797 RRLGYISVVDTLKIVTEETMTTTTVTEKHKMNVPETMNEVLDMSDDEVRKANAPEMLSDGEYISDVEEGEDAMTGDTDKYLGPQDLKELGDDSLPAEGYM    896
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               804 RRLGYISVVDTLKIVTEETMTTTTVTEKHKMNVPETMNEVLDMSDDEVRKANAPEMLSDGEYISDVEEGEDAMTGDTDKYLGPQDLKELGDDSLPAEGYM    903
+
+P1               897 GFSLGARSASLRSFSSDRSYTLNRSSYARDSMMIEELLVPSKEQHLTFTREFDSDSLRHYSWAADTLDNVNLVSSPIHSGFLVSFMVDARGGSMRGSRHH    996
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               904 GFSLGARSASLRSFSSDRSYTLNRSSYARDSMMIEELLVPSKEQHLTFTREFDSDSLRHYSWAADTLDNVNLVSSPIHSGFLVSFMVDARGGSMRGSRHH   1003
+
+P1               997 GMRIIIPPRKCTAPTRITCRLVKRHKLANPPPMVEGEGLASRLVEMGPAGAQFLGPVIVEIPHFGSMRGKERELIVLRSENGETWKEHQFDSKNEDLTEL   1096
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1004 GMRIIIPPRKCTAPTRITCRLVKRHKLANPPPMVEGEGLASRLVEMGPAGAQFLGPVIVEIPHFGSMRGKERELIVLRSENGETWKEHQFDSKNEDLTEL   1103
+
+P1              1097 LNGMDEELDSPEELGKKRICRIITKDFPQYFAVVSRIKQESNQIGPEGGILSSTTVPLVQASFPEGALTKRIRVGLQAQPVPDEIVKKILGNKATFSPIV   1196
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1104 LNGMDEELDSPEELGKKRICRIITKDFPQYFAVVSRIKQESNQIGPEGGILSSTTVPLVQASFPEGALTKRIRVGLQAQPVPDEIVKKILGNKATFSPIV   1203
+
+P1              1197 TVEPRRRKFHKPITMTIPVPPPSGEGVSNGYKGDTTPNLRLLCSITGGTSPAQWEDITGTTPLTFIKDCVSFTTNVSARFWLADCHQVLETVGLATQLYR   1296
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1204 TVEPRRRKFHKPITMTIPVPPPSGEGVSNGYKGDTTPNLRLLCSITGGTSPAQWEDITGTTPLTFIKDCVSFTTNVSARFWLADCHQVLETVGLATQLYR   1303
+
+P1              1297 ELICVPYMAKFVVFAKMNDPVESSLRCFCMTDDKVDKTLEQQENFEEVARSKDIEVLEGKPIYVDCYGNLAPLTKGGQQLVFNFYSFKENRLPFSIKIRD   1396
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1304 ELICVPYMAKFVVFAKMNDPVESSLRCFCMTDDKVDKTLEQQENFEEVARSKDIEVLEGKPIYVDCYGNLAPLTKGGQQLVFNFYSFKENRLPFSIKIRD   1403
+
+P1              1397 TSQEPCGRLSFLKEPKTTKGLPQTAVCNLNITLPAHKK---------IEKTDRRQSFASLALRKRYSYLTEPGM--------------------------   1461
+                     ||||||||||||||||||||||||||||||||||||||         |||||||||||||||||||||||||||                          
+S1              1404 TSQEPCGRLSFLKEPKTTKGLPQTAVCNLNITLPAHKKETESDQDDEIEKTDRRQSFASLALRKRYSYLTEPGMIERSTGATRSLPTTYSYKPFFSTRPY   1503
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              1504 QSWTTAPITVPGPAKSGFTSLSSSSSNTPSASPLKSIWSVSTPSPIKSTLGASTTSSVKSISDVASPIRSFRTMSSPIKTVVSQSPYNIQVSSGTLARAP   1603
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              1604 AVTEATPLKGLASNSTFSSRTSPVTTAGSLLERSSITMTPPASPKSNINMYSSSLPFKSIITSAAPLISSPLKSVVSPVKSAVDVISSAKITMASSLSSP   1703
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              1704 VKQMPGHAEVALVNGSISPLKYPSSSTLINGCKATATLQEKISSATNSVSSVVSAATDTVEKVFSTTTAMPFSPLRSYVSAAPSAFQSLRTPSASALYTS   1803
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              1804 LGSSISATTSSVTSSIITVPVYSVVNVLPEPALKKLPDSNSFTKSAAALLSPIKTLTTETHPQPHFSRTSSPVKSSLFLAPSALKLSTPSSLSSSQEILK   1903
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              1904 DVAEMKEDLMRMTAILQTDVPEEKPFQPELPKEGRIDDEEPFKIVEKVKEDLVKVSEILKKDVCVDNKGSPKSPKSDKGHSPEDDWIEFSSEEIREARQQ   2003
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2004 AAASQSPSLPERVQVKAKAASEKDYNLTKVIDYLTNDIGSSSLTNLKYKFEDAKKDGEERQKRVLKPAIALQEHKLKMPPASMRTSTSEKELCKMADSFF   2103
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2104 GTDTILESPDDFSQHDQDKSPLSDSGFETRSEKTPSAPQSAESTGPKPLFHEVPIPPVITETRTEVVHVIRSYDPSAGDVPQTQPEEPVSPKPSPTFMEL   2203
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2204 EPKPTTSSIKEKVKAFQMKASSEEDDHNRVLSKGMRVKEETHITTTTRMVYHSPPGGEGASERIEETMSVHDIMKAFQSGRDPSKELAGLFEHKSAVSPD   2303
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2304 VHKSAAETSAQHAEKDNQMKPKLERIIEVHIEKGNQAEPTEVIIRETKKHPEKEMYVYQKDLSRGDINLKDFLPEKHDAFPCSEEQGQQEEEELTAEESL   2403
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2404 PSYLESSRVNTPVSQEEDSRPSSAQLISDDSYKTLKLLSQHSIEYHDDELSELRGESYRFAEKMLLSEKLDVSHSDTEESVTDHAGPPSSELQGSDKRSR   2503
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2504 EKIATAPKKEILSKIYKDVSENGVGKVSKDEHFDKVTVLHYSGNVSSPKHAMWMRFTEDRLDRGREKLIYEDRVDRTVKEAEEKLTEVSQFFRDKTEKLN   2603
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2604 DELQSPEKKARPKNGKEYSSQSPTSSSPEKVLLTELLASNDEWVKARQHGPDGQGFPKAEEKAPSLPSSPEKMVLSQQTEDSKSTVEAKGSISQSKAPDG   2703
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2704 PQSGFQLKQSKLSSIRLKFEQGTHAKSKDMSQEDRKSDGQSRIPVKKIQESKLPVYQVFAREKQQKAIDLPDESVSVQKDFMVLKTKDEHAQSNEIVVND   2803
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2804 SGSDNVKKQRTEMSSKAMPDSFSEQQAKDLACHITSDLATRGPWDKKVFRTWESSGATNNKSQKEKLSHVLVHDVRENHIGHPESKSVDQKNEFMSVTER   2903
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              2904 ERKLLTNGSLSEIKEMTVKSPSKKVLYREYVVKEGDHPGGLLDQPSRRSESSAVSHIPVRVADERRMLSSNIPDGFCEQSAFPKHELSQKLSQSSMSKET   3003
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3004 VETQHFNSIEDEKVTYSEISKVSKHQSYVGLCPPLEETETSPTKSPDSLEFSPGKESPSSDVFDHSPIDGLEKLAPLAQTEGGKEIKTLPVYVSFVQVGK   3103
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3104 QYEKEIQQGGVKKIISQECKTVQETRGTFYTTRQQKQPPSPQGSPEDDTLEQVSFLDSSGKSPLTPETPSSEEVSYEFTSKTPDSLIAYIPGKPSPIPEV   3203
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3204 SEESEEEEQAKSTSLKQTTVEETAVEREMPNDVSKDSNQRPKNNRVAYIEFPPPPPLDADQIESDKKHHYLPEKEVDMIEVNLQDEHDKYQLAEPVIRVQ   3303
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3304 PPSPVPPGADVSDSSDDESIYQPVPVKKYTFKLKEVDDEQKEKPKASAEKASNQKELESNGSGKDNEFGLGLDSPQNEIAQNGNNDQSITECSIATTAEF   3403
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3404 SHDTDATEIDSLDGYDLQDEDDGLTESDSKLPIQAMEIKKDIWNTEGILKPADRSFSQSKLEVIEEEGKVGPDEDKPPSKSSSSEKTPDKTDQKSGAQFF   3503
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3504 TLEGRHPDRSVFPDTYFSYKVDEEFATPFKTVATKGLDFDPWSNNRGDDEVFDSKSREDETKPFGLAVEDRSPATTPDTTPARTPTDESTPTSEPNPFPF   3603
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3604 HEGKMFEMTRSGAIDMSKRDFVEERLQFFQIGEHTSEGKSGDQGEGDKSMVTATPQPQSGDTTVETNLERNVETPTVEPNPSIPTSGECQEGTSSSGSLE   3703
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3704 KSAAATNTSKVDPKLRTPIKMGISASTMTMKKEGPGEITDKIEAVMTSCQGLENETITMISNTANSQMGVRPHEKHDFQKDNFNNNNNLDSSTIQTDNIM   3803
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3804 SNIVLTEHSAPTCTTEKDNPVKVSSGKKTGVLQGHCVRDKQKVLGEQQKTKELIGIRQKSKLPIKATSPKDTFPPNHMSNTKASKMKQVSQSEKTKALTT   3903
+
+P1              1462 ----------------------------------------------------------------------------------------------------   1461
+                                                                                                                         
+S1              3904 SSCVDVKSRIPVKNTHRDNIIAVRKACATQKQGQPEKGKAKQLPSKLPVKVRSTCVTTTTTTATTTTTTTTTTTTSCTVKVRKSQLKEVCKHSIEYFKGI   4003
+
+P1              1462 ------------------------------------------------------------------------------SPQSPCERTDIRMAIVADHLGL   1483
+                                                                                                    |||||||||||||||||||||
+S1              4004 SGETLKLVDRLSEEEKKMQSELSDEEESTSRNTSLSETSRGGQPSVTTKSARDKKTEAAPLKSKSEKAGSEKRSSRRTGPQSPCERTDIRMAIVADHLGL   4103
+
+P1              1484 SWTELARELNFSVDEINQIRVENPNSLISQSFMLLKKWVTRDGKNATTDALTSVLTKINRIDIVTLLEGPIFDYGNISGTRSFADENNVFHDPVDGYPSL   1583
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||    
+S1              4104 SWTELARELNFSVDEINQIRVENPNSLISQSFMLLKKWVTRDGKNATTDALTSVLTKINRIDIVTLLEGPIFDYGNISGTRSFADENNVFHDPVDG----   4199
+
+P1              1584 QVELETPTGLHYTPPTPFQQDDYFSDISSIESPLRTPSRLSDGLVPSQGNIEHSADGPPVVTAEDASLEDSKLEDSVPLTEMPEAVDVDESQLENVCLSW   1683
+                                                                                                                        |
+S1              4200 ---------------------------------------------------------------------------------------------------W   4200
+
+P1              1684 QNETSSGNLESCAQARRVTGGLLDRLDDSPDQCRDSITSYLKGEAGKFEANGSHTEITPEAKTKSYFPESQNDVGKQSTKETLKPKIHGSGHVEEPASPL   1783
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              4201 QNETSSGNLESCAQARRVTGGLLDRLDDSPDQCRDSITSYLKGEAGKFEANGSHTEITPEAKTKSYFPESQNDVGKQSTKETLKPKIHGSGHVEEPASPL   4300
+
+P1              1784 AAYQKSLEETSKLIIEETKPCVPVSMKKMSRTSPADGKPRLSLHEEEGSSGSEQKQGEGFKVKTKKEIRHVEKKSHS   1860
+                     |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              4301 AAYQKSLEETSKLIIEETKPCVPVSMKKMSRTSPADGKPRLSLHEEEGSSGSEQKQGEGFKVKTKKEIRHVEKKSHS   4377
+
+
+#---------------------------------------
+#---------------------------------------

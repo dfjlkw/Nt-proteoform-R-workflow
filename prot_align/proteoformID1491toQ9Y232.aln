@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:04 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 550
+# Identity:     538/550 (97.8%)
+# Similarity:    NA/550 (NA%)
+# Gaps:           7/550 (1.3%)
+# Score: 2757
+#
+#
+#=======================================
+
+P1                 1 ASEE-------LYEVERIVDKRKNKKGKTEYLVRWKGYDSEDDTWEPEQHLVNCEEYIHDFNRRHTEKQKESTLTRTNRTSPNNARKQISRSTNSNFSKT     93
+                      ||           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                49 SSEQSGAQQPPALQVERIVDKRKNKKGKTEYLVRWKGYDSEDDTWEPEQHLVNCEEYIHDFNRRHTEKQKESTLTRTNRTSPNNARKQISRSTNSNFSKT    148
+
+P1                94 SPKALVIGKDHESKNSQLFAASQKFRKNTAPSLSSRKNMDLAKSGIKILVPKSPVKSRTAVDGFQSESPEKLDPVEQGQEDTVAPEVAAEKPVGALLGPG    193
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               149 SPKALVIGKDHESKNSQLFAASQKFRKNTAPSLSSRKNMDLAKSGIKILVPKSPVKSRTAVDGFQSESPEKLDPVEQGQEDTVAPEVAAEKPVGALLGPG    248
+
+P1               194 AERARMGSRPRIHPLVPQVPGPVTAAMATGLAVNGKGTSPFMDALTANGTTNIQTSVTGVTASKRKFIDDRRDQPFDKRLRFSVRQTESAYRYRDIVVRK    293
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               249 AERARMGSRPRIHPLVPQVPGPVTAAMATGLAVNGKGTSPFMDALTANGTTNIQTSVTGVTASKRKFIDDRRDQPFDKRLRFSVRQTESAYRYRDIVVRK    348
+
+P1               294 QDGFTHILLSTKSSENNSLNPEVMREVQSALSTAAADDSKLVLLSAVGSVFCCGLDFIYFIRRLTDDRKRESTKMAEAIRNFVNTFIQFKKPIIVAVNGP    393
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               349 QDGFTHILLSTKSSENNSLNPEVMREVQSALSTAAADDSKLVLLSAVGSVFCCGLDFIYFIRRLTDDRKRESTKMAEAIRNFVNTFIQFKKPIIVAVNGP    448
+
+P1               394 AIGLGASILPLCDVVWANEKAWFQTPYTTFGQSPDGCSTVMFPKIMGGASANEMLLSGRKLTAQEACGKGLVSQVFWPGTFTQEVMVRIKELASCNPVVL    493
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               449 AIGLGASILPLCDVVWANEKAWFQTPYTTFGQSPDGCSTVMFPKIMGGASANEMLLSGRKLTAQEACGKGLVSQVFWPGTFTQEVMVRIKELASCNPVVL    548
+
+P1               494 EESKALVRCNMKMELEQANERECEVLKKIWGSAQGMDSMLKYLQRKIDEF    543
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               549 EESKALVRCNMKMELEQANERECEVLKKIWGSAQGMDSMLKYLQRKIDEF    598
+
+
+#---------------------------------------
+#---------------------------------------

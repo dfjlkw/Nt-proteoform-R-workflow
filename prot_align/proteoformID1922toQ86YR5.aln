@@ -1,0 +1,53 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:09 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 674
+# Identity:     673/674 (99.9%)
+# Similarity:    NA/674 (NA%)
+# Gaps:           0/674 (0.0%)
+# Score: 3524
+#
+#
+#=======================================
+
+P1                 1 AGPAPPAADELPGPAARRLYSRMEASCLELALEGERLCKAGDFKTGVAFFEAAVQVGTEDLKTLSAIYSQLGNAYFYLKEHGRALEYHKHDLLLARTIGD    100
+                     |||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 2 AGPAPPVADELPGPAARRLYSRMEASCLELALEGERLCKAGDFKTGVAFFEAAVQVGTEDLKTLSAIYSQLGNAYFYLKEHGRALEYHKHDLLLARTIGD    101
+
+P1               101 RMGEAKASGNLGNTLKVLGRFDEAAVCCQRHLSIAQEQGDKVGEARALYNIGNVYHAKGKQLSWNAANATQDPGHLPPDVRETLCKASEFYERNLSLVKE    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               102 RMGEAKASGNLGNTLKVLGRFDEAAVCCQRHLSIAQEQGDKVGEARALYNIGNVYHAKGKQLSWNAANATQDPGHLPPDVRETLCKASEFYERNLSLVKE    201
+
+P1               201 LGDRAAQGRAYGNLGNTHYLLGNFTEATTFHKERLAIAKEFGDKAAERRAYSNLGNAHVFLGRFDVAAEYYKKTLQLSRQLRDQAVEAQACYSLGNTYTL    300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               202 LGDRAAQGRAYGNLGNTHYLLGNFTEATTFHKERLAIAKEFGDKAAERRAYSNLGNAHVFLGRFDVAAEYYKKTLQLSRQLRDQAVEAQACYSLGNTYTL    301
+
+P1               301 LQDYERAAEYHLRHLLIAQELADRVGEGRACWSLGNAYVSMGRPAQALTFAKKHLQISQEIGDRHGELTARMNVAQLQLVLGRLTSPAASEKPDLAGYEA    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               302 LQDYERAAEYHLRHLLIAQELADRVGEGRACWSLGNAYVSMGRPAQALTFAKKHLQISQEIGDRHGELTARMNVAQLQLVLGRLTSPAASEKPDLAGYEA    401
+
+P1               401 QGARPKRTQRLSAETWDLLRLPLEREQNGDSHHSGDWRGPSRDSLPLPVRSRKYQEGPDAERRPREGSHSPLDSADVRVHVPRTSIPRAPSSDEECFFDL    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               402 QGARPKRTQRLSAETWDLLRLPLEREQNGDSHHSGDWRGPSRDSLPLPVRSRKYQEGPDAERRPREGSHSPLDSADVRVHVPRTSIPRAPSSDEECFFDL    501
+
+P1               501 LTKFQSSRMDDQRCPLDDGQAGAAEATAAPTLEDRIAQPSMTASPQTEEFFDLIASSQSRRLDDQRASVGSLPGLRITHSNAGHLRGHGEPQEPGDDFFN    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               502 LTKFQSSRMDDQRCPLDDGQAGAAEATAAPTLEDRIAQPSMTASPQTEEFFDLIASSQSRRLDDQRASVGSLPGLRITHSNAGHLRGHGEPQEPGDDFFN    601
+
+P1               601 MLIKYQSSRIDDQRCPPPDVLPRGPTMPDEDFFSLIQRVQAKRMDEQRVDLAGGPEQGAGGPPEPQQQCQPGAS    674
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               602 MLIKYQSSRIDDQRCPPPDVLPRGPTMPDEDFFSLIQRVQAKRMDEQRVDLAGGPEQGAGGPPEPQQQCQPGAS    675
+
+
+#---------------------------------------
+#---------------------------------------

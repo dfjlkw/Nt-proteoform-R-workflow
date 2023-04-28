@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:07 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 520
+# Identity:     520/520 (100.0%)
+# Similarity:    NA/520 (NA%)
+# Gaps:           0/520 (0.0%)
+# Score: 2722
+#
+#
+#=======================================
+
+P1                15 MPGSLPLNAEACWPKDVGIVALEIYFPSQYVDQAELEKYDGVDAGKYTIGLGQAKMGFCTDREDINSLCMTVVQNLMERNNLSYDCIGRLEVGTETIIDK    114
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MPGSLPLNAEACWPKDVGIVALEIYFPSQYVDQAELEKYDGVDAGKYTIGLGQAKMGFCTDREDINSLCMTVVQNLMERNNLSYDCIGRLEVGTETIIDK    100
+
+P1               115 SKSVKTNLMQLFEESGNTDIEGIDTTNACYGGTAAVFNAVNWIESSSWDGRYALVVAGDIAVYATGNARPTGGVGAVALLIGPNAPLIFERGLRGTHMQH    214
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 SKSVKTNLMQLFEESGNTDIEGIDTTNACYGGTAAVFNAVNWIESSSWDGRYALVVAGDIAVYATGNARPTGGVGAVALLIGPNAPLIFERGLRGTHMQH    200
+
+P1               215 AYDFYKPDMLSEYPIVDGKLSIQCYLSALDRCYSVYCKKIHAQWQKEGNDKDFTLNDFGFMIFHSPYCKLVQKSLARMLLNDFLNDQNRDKNSIYSGLEA    314
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 AYDFYKPDMLSEYPIVDGKLSIQCYLSALDRCYSVYCKKIHAQWQKEGNDKDFTLNDFGFMIFHSPYCKLVQKSLARMLLNDFLNDQNRDKNSIYSGLEA    300
+
+P1               315 FGDVKLEDTYFDRDVEKAFMKASSELFSQKTKASLLVSNQNGNMYTSSVYGSLASVLAQYSPQQLAGKRIGVFSYGSGLAATLYSLKVTQDATPGSALDK    414
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 FGDVKLEDTYFDRDVEKAFMKASSELFSQKTKASLLVSNQNGNMYTSSVYGSLASVLAQYSPQQLAGKRIGVFSYGSGLAATLYSLKVTQDATPGSALDK    400
+
+P1               415 ITASLCDLKSRLDSRTGVAPDVFAENMKLREDTHHLVNYIPQGSIDSLFEGTWYLVRVDEKHRRTYARRPTPNDDTLDEGVGLVHSNIATEHIPSPAKKV    514
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 ITASLCDLKSRLDSRTGVAPDVFAENMKLREDTHHLVNYIPQGSIDSLFEGTWYLVRVDEKHRRTYARRPTPNDDTLDEGVGLVHSNIATEHIPSPAKKV    500
+
+P1               515 PRLPATAAEPEAAVISNGEH    534
+                     ||||||||||||||||||||
+S1               501 PRLPATAAEPEAAVISNGEH    520
+
+
+#---------------------------------------
+#---------------------------------------

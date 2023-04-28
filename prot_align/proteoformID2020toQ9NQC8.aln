@@ -1,0 +1,41 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:09 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 304
+# Identity:     304/304 (100.0%)
+# Similarity:    NA/304 (NA%)
+# Gaps:           0/304 (0.0%)
+# Score: 1599
+#
+#
+#=======================================
+
+P1                52 MADNSSDECEEENNKEKKKTSQLTPQRGFSENEDDDDDDDDSSETDSDSDDDDEEHGAPLEGAYDPADYEHLPVSAEIKELFQYISRYTPQLIDLDHKLK    151
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MADNSSDECEEENNKEKKKTSQLTPQRGFSENEDDDDDDDDSSETDSDSDDDDEEHGAPLEGAYDPADYEHLPVSAEIKELFQYISRYTPQLIDLDHKLK    100
+
+P1               152 PFIPDFIPAVGDIDAFLKVPRPDGKPDNLGLLVLDEPSTKQSDPTVLSLWLTENSKQHNITQHMKVKSLEDAEKNPKAIDTWIESISELHRSKPPATVHY    251
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 PFIPDFIPAVGDIDAFLKVPRPDGKPDNLGLLVLDEPSTKQSDPTVLSLWLTENSKQHNITQHMKVKSLEDAEKNPKAIDTWIESISELHRSKPPATVHY    200
+
+P1               252 TRPMPDIDTLMQEWSPEFEELLGKVSLPTAEIDCSLAEYIDMICAILDIPVYKSRIQSLHLLFSLYSEFKNSQHFKALAEGKKAFTPSSNSTSQAGDMET    351
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 TRPMPDIDTLMQEWSPEFEELLGKVSLPTAEIDCSLAEYIDMICAILDIPVYKSRIQSLHLLFSLYSEFKNSQHFKALAEGKKAFTPSSNSTSQAGDMET    300
+
+P1               352 LTFS    355
+                     ||||
+S1               301 LTFS    304
+
+
+#---------------------------------------
+#---------------------------------------

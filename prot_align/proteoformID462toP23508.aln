@@ -1,0 +1,61 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:02 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 830
+# Identity:     814/830 (98.1%)
+# Similarity:    NA/830 (NA%)
+# Gaps:           6/830 (0.7%)
+# Score: 4009
+#
+#
+#=======================================
+
+P1               193 IGNSVGGSY-----LELANTLHSAALASLKGDIVELNKRLQQTERERDLLEKKLAKAQCEQSHLMREHEDVQERTTLRYEERITELHSVIAELNKKIDRL    287
+                         |   |      ||   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MNSGVAMKYGNDSSAELSE-LHSAALASLKGDIVELNKRLQQTERERDLLEKKLAKAQCEQSHLMREHEDVQERTTLRYEERITELHSVIAELNKKIDRL     99
+
+P1               288 QGTTIREEDEYSELRSELSQSQHEVNEDSRSMDQDQTSVSIPENQSTMVTADMDNCSDLNSELQRVLTGLENVVCGRKKSSCSLSVAEVDKHIEQLTTAS    387
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               100 QGTTIREEDEYSELRSELSQSQHEVNEDSRSMDQDQTSVSIPENQSTMVTADMDNCSDLNSELQRVLTGLENVVCGRKKSSCSLSVAEVDKHIEQLTTAS    199
+
+P1               388 EHCDLAIKTVEEIEGVLGRDLYPNLAEERSRWEKELAGLREENESLTAMLCSKEEELNRTKATMNAIREERDRLRRRVRELQTRLQSVQATGPSSPGRLT    487
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               200 EHCDLAIKTVEEIEGVLGRDLYPNLAEERSRWEKELAGLREENESLTAMLCSKEEELNRTKATMNAIREERDRLRRRVRELQTRLQSVQATGPSSPGRLT    299
+
+P1               488 STNRPINPSTGELSTSSSSNDIPIAKIAERVKLSKTRSESSSSDRPVLGSEISSIGVSSSVAEHLAHSLQDCSNIQEIFQTLYSHGSAISESKIREFEVE    587
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               300 STNRPINPSTGELSTSSSSNDIPIAKIAERVKLSKTRSESSSSDRPVLGSEISSIGVSSSVAEHLAHSLQDCSNIQEIFQTLYSHGSAISESKIREFEVE    399
+
+P1               588 TERLNSRIEHLKSQNDLLTITLEECKSNAERMSMLVGKYESNATALRLALQYSEQCIEAYELLLALAESEQSLILGQFRAAGVGSSPGDQSGDENITQML    687
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               400 TERLNSRIEHLKSQNDLLTITLEECKSNAERMSMLVGKYESNATALRLALQYSEQCIEAYELLLALAESEQSLILGQFRAAGVGSSPGDQSGDENITQML    499
+
+P1               688 KRAHDCRKTAENAAKALLMKLDGSCGGAFAVAGCSVQPWESLSSNSHTSTTSSTASSCDTEFTKEDEQRLKDYIQQLKNDRAAVKLTMLELESIHIDPLS    787
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               500 KRAHDCRKTAENAAKALLMKLDGSCGGAFAVAGCSVQPWESLSSNSHTSTTSSTASSCDTEFTKEDEQRLKDYIQQLKNDRAAVKLTMLELESIHIDPLS    599
+
+P1               788 YDVKPRGDSQRLDLENAVLMQELMAMKEEMAELKAQLYLLEKEKKALELKLSTREAQEQAYLVHIEHLKSEVEEQKEQRMRSLSSTSSGSKDKPGKECAD    887
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               600 YDVKPRGDSQRLDLENAVLMQELMAMKEEMAELKAQLYLLEKEKKALELKLSTREAQEQAYLVHIEHLKSEVEEQKEQRMRSLSSTSSGSKDKPGKECAD    699
+
+P1               888 AASPALSLAELRTTCSENELAAEFTNAIRREKKLKARVQELVSALERLTKSSEIRHQQSAEFVNDLKRANSNLVAAYEKAKKKHQNKLKKLESQMMAMVE    987
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               700 AASPALSLAELRTTCSENELAAEFTNAIRREKKLKARVQELVSALERLTKSSEIRHQQSAEFVNDLKRANSNLVAAYEKAKKKHQNKLKKLESQMMAMVE    799
+
+P1               988 RHETQVRMLKQRIALLEEENSRPHTNETSL   1017
+                     ||||||||||||||||||||||||||||||
+S1               800 RHETQVRMLKQRIALLEEENSRPHTNETSL    829
+
+
+#---------------------------------------
+#---------------------------------------

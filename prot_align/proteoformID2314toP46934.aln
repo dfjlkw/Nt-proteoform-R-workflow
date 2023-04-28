@@ -1,0 +1,65 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:05 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 920
+# Identity:     819/920 (89.0%)
+# Similarity:    NA/920 (NA%)
+# Gaps:          50/920 (5.4%)
+# Score: 4319.5
+#
+#
+#=======================================
+
+P1                 1 ATCAVEVFGLLEDEENSRIVRVRVIAGIGLAKKDI-LGASDPYVRVTLYDPMNGVLTSVQTKTIKKSLNPKWNEEILFRVHPQQHRLLFEVFDENRL---     96
+                       |     | ||                |     | ||   |             | |      |                | |    |    |      
+S1               429 VDCQININGELERPHS------QMNKNHGILRRSISLGGAYPNI---------SCLSSLKHNCSKGG--------------PSQLLIKFASGNEGKVDNL    499
+
+P1                97 -----------------TRDDFLGQVDVPLYPLPTENPRLERPYTFKDFVLHPRSHKSRVKGYLRLKMTYLPKTSGSEDDNAEQAEELEPGWVVLDQPDA    179
+                                      |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               500 SRDSNRDCTNELSNSCKTRDDFLGQVDVPLYPLPTENPRLERPYTFKDFVLHPRSHKSRVKGYLRLKMTYLPKTSGSEDDNAEQAEELEPGWVVLDQPDA    599
+
+P1               180 ACHLQQQQEPSPLPPGWEERQDILGRTYYVNHESRRTQWKRPTPQDNLTDAENGNIQLQAQRAFTTRRQISEETESVDNRESSENWEIIREDEATMYSNQ    279
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               600 ACHLQQQQEPSPLPPGWEERQDILGRTYYVNHESRRTQWKRPTPQDNLTDAENGNIQLQAQRAFTTRRQISEETESVDNRESSENWEIIREDEATMYSNQ    699
+
+P1               280 AFPSPPPSSNLDVPTHLAEELNARLTIFGNSAVSQPASSSNHSSRRGSLQAYTFEEQPTLPVLLPTSSGLPPGWEEKQDERGRSYYVDHNSRTTTWTKPT    379
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               700 AFPSPPPSSNLDVPTHLAEELNARLTIFGNSAVSQPASSSNHSSRRGSLQAYTFEEQPTLPVLLPTSSGLPPGWEEKQDERGRSYYVDHNSRTTTWTKPT    799
+
+P1               380 VQATVETSQLTSSQSSAGPQSQASTSDSGQQVTQPSEIEQGFLPKGWEVRHAPNGRPFFIDHNTKTTTWEDPRLKIPAHLRGKTSLDTSNDLGPLPPGWE    479
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               800 VQATVETSQLTSSQSSAGPQSQASTSDSGQQVTQPSEIEQGFLPKGWEVRHAPNGRPFFIDHNTKTTTWEDPRLKIPAHLRGKTSLDTSNDLGPLPPGWE    899
+
+P1               480 ERTHTDGRIFYINHNIKRTQWEDPRLENVAITGPAVPYSRDYKRKYEFFRRKLKKQNDIPNKFEMKLRRATVLEDSYRRIMGVKRADFLKARLWIEFDGE    579
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               900 ERTHTDGRIFYINHNIKRTQWEDPRLENVAITGPAVPYSRDYKRKYEFFRRKLKKQNDIPNKFEMKLRRATVLEDSYRRIMGVKRADFLKARLWIEFDGE    999
+
+P1               580 KGLDYGGVAREWFFLISKEMFNPYYGLFEYSATDNYTLQINPNSGLCNEDHLSYFKFIGRVAGMAVYHGKLLDGFFIRPFYKMMLHKPITLHDMESVDSE    679
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1000 KGLDYGGVAREWFFLISKEMFNPYYGLFEYSATDNYTLQINPNSGLCNEDHLSYFKFIGRVAGMAVYHGKLLDGFFIRPFYKMMLHKPITLHDMESVDSE   1099
+
+P1               680 YYNSLRWILENDPTELDLRFIIDEELFGQTHQHELKNGGSEIVVTNKNKKEYIYLVIQWRFVNRIQKQMAAFKEGFFELIPQDLIKIFDENELELLMCGL    779
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1100 YYNSLRWILENDPTELDLRFIIDEELFGQTHQHELKNGGSEIVVTNKNKKEYIYLVIQWRFVNRIQKQMAAFKEGFFELIPQDLIKIFDENELELLMCGL   1199
+
+P1               780 GDVDVNDWREHTKYKNGYSANHQVIQWFWKAVLMMDSEKRIRLLQFVTGTSRVPMNGFAELYGSNGPQSFTVEQWGTPEKLPRAHTCFNRLDLPPYESFE    879
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1              1200 GDVDVNDWREHTKYKNGYSANHQVIQWFWKAVLMMDSEKRIRLLQFVTGTSRVPMNGFAELYGSNGPQSFTVEQWGTPEKLPRAHTCFNRLDLPPYESFE   1299
+
+P1               880 ELWDKLQMAIENTQGFDGVD    899
+                     ||||||||||||||||||||
+S1              1300 ELWDKLQMAIENTQGFDGVD   1319
+
+
+#---------------------------------------
+#---------------------------------------

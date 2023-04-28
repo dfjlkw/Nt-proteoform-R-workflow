@@ -1,0 +1,41 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:08 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 376
+# Identity:     376/376 (100.0%)
+# Similarity:    NA/376 (NA%)
+# Gaps:           0/376 (0.0%)
+# Score: 1932
+#
+#
+#=======================================
+
+P1                20 MDVLAEANGTFALNLLKTLGKDNSKNVFFSPMSMSCALAMVYMGAKGNTAAQMAQILSFNKSGGGGDIHQGFQSLLTEVNKTGTQYLLRMANRLFGEKSC    119
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MDVLAEANGTFALNLLKTLGKDNSKNVFFSPMSMSCALAMVYMGAKGNTAAQMAQILSFNKSGGGGDIHQGFQSLLTEVNKTGTQYLLRMANRLFGEKSC    100
+
+P1               120 DFLSSFRDSCQKFYQAEMEELDFISAVEKSRKHINTWVAEKTEGKIAELLSPGSVDPLTRLVLVNAVYFRGNWDEQFDKENTEERLFKVSKNEEKPVQMM    219
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 DFLSSFRDSCQKFYQAEMEELDFISAVEKSRKHINTWVAEKTEGKIAELLSPGSVDPLTRLVLVNAVYFRGNWDEQFDKENTEERLFKVSKNEEKPVQMM    200
+
+P1               220 FKQSTFKKTYIGEIFTQILVLPYVGKELNMIIMLPDETTDLRTVEKELTYEKFVEWTRLDMMDEEEVEVSLPRFKLEESYDMESVLRNLGMTDAFELGKA    319
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 FKQSTFKKTYIGEIFTQILVLPYVGKELNMIIMLPDETTDLRTVEKELTYEKFVEWTRLDMMDEEEVEVSLPRFKLEESYDMESVLRNLGMTDAFELGKA    300
+
+P1               320 DFSGMSQTDLSLSKVVHKSFVEVNEEGTEAAAATAAIMMMRCARFVPRFCADHPFLFFIQHSKTNGILFCGRFSSP    395
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 DFSGMSQTDLSLSKVVHKSFVEVNEEGTEAAAATAAIMMMRCARFVPRFCADHPFLFFIQHSKTNGILFCGRFSSP    376
+
+
+#---------------------------------------
+#---------------------------------------

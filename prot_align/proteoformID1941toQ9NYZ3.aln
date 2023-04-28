@@ -1,0 +1,57 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:09 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 720
+# Identity:     720/720 (100.0%)
+# Similarity:    NA/720 (NA%)
+# Gaps:           0/720 (0.0%)
+# Score: 3693
+#
+#
+#=======================================
+
+P1                20 MDDPKKEDILLLADEKFDFDLSLSSSSANEDDEVFFGPFGHKERCIAASLELNNPVPEQPPLPTSESPFAWSPLAGEKFVEVYKEAHLLALHIESSSRNQ    119
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 1 MDDPKKEDILLLADEKFDFDLSLSSSSANEDDEVFFGPFGHKERCIAASLELNNPVPEQPPLPTSESPFAWSPLAGEKFVEVYKEAHLLALHIESSSRNQ    100
+
+P1               120 AAQAAKPEDPRSQGVERFIQESKLKINLFEKEKEMKKSPTSLKRETYYLSDSPLLGPPVGEPRLLASSPALPSSGAQARLTRAPGPPHSAHALPRESCTA    219
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               101 AAQAAKPEDPRSQGVERFIQESKLKINLFEKEKEMKKSPTSLKRETYYLSDSPLLGPPVGEPRLLASSPALPSSGAQARLTRAPGPPHSAHALPRESCTA    200
+
+P1               220 HAASQAATQRKPGTKLLLPRAASVRGRSIPGAAEKPKKEIPASPSRTKIPAEKESHRDVLPDKPAPGAVNVPAAGSHLGQGKRAIPVPNKLGLKKTLLKA    319
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               201 HAASQAATQRKPGTKLLLPRAASVRGRSIPGAAEKPKKEIPASPSRTKIPAEKESHRDVLPDKPAPGAVNVPAAGSHLGQGKRAIPVPNKLGLKKTLLKA    300
+
+P1               320 PGSTSNLARKSSSGPVWSGASSACTSPAVGKAKSSEFASIPANSSRPLSNISKSGRMGPAMLRPALPAGPVGASSWQAKRVDVSELAAEQLTAPPSASPT    419
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               301 PGSTSNLARKSSSGPVWSGASSACTSPAVGKAKSSEFASIPANSSRPLSNISKSGRMGPAMLRPALPAGPVGASSWQAKRVDVSELAAEQLTAPPSASPT    400
+
+P1               420 QPQTPEGGGQWLNSSCAWSESSQLNKTRSIRRRDSCLNSKTKVMPTPTNQFKIPKFSIGDSPDSSTPKLSRAQRPQSCTSVGRVTVHSTPVRRSSGPAPQ    519
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               401 QPQTPEGGGQWLNSSCAWSESSQLNKTRSIRRRDSCLNSKTKVMPTPTNQFKIPKFSIGDSPDSSTPKLSRAQRPQSCTSVGRVTVHSTPVRRSSGPAPQ    500
+
+P1               520 SLLSAWRVSALPTPASRRCSGLPPMTPKTMPRAVGSPLCVPARRRSSEPRKNSAMRTEPTRESNRKTDSRLVDVSPDRGSPPSRVPQALNFSPEESDSTF    619
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               501 SLLSAWRVSALPTPASRRCSGLPPMTPKTMPRAVGSPLCVPARRRSSEPRKNSAMRTEPTRESNRKTDSRLVDVSPDRGSPPSRVPQALNFSPEESDSTF    600
+
+P1               620 SKSTATEVAREEAKPGGDAAPSEALLVDIKLEPLAVTPDAASQPLIDLPLIDFCDTPEAHVAVGSESRPLIDLMTNTPDMNKNVAKPSPVVGQLIDLSSP    719
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               601 SKSTATEVAREEAKPGGDAAPSEALLVDIKLEPLAVTPDAASQPLIDLPLIDFCDTPEAHVAVGSESRPLIDLMTNTPDMNKNVAKPSPVVGQLIDLSSP    700
+
+P1               720 LIQLSPEADKENVDSPLLKF    739
+                     ||||||||||||||||||||
+S1               701 LIQLSPEADKENVDSPLLKF    720
+
+
+#---------------------------------------
+#---------------------------------------

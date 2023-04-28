@@ -1,0 +1,65 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:03 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 949
+# Identity:     931/949 (98.1%)
+# Similarity:    NA/949 (NA%)
+# Gaps:          17/949 (1.8%)
+# Score: 4777
+#
+#
+#=======================================
+
+P1                 1 ADLSLLQEDLQEDADG-----------------SLDFVSQDEMLTPLGRLDKYAASENIFNRQMVARSLLDTLREVCDDERDCIAVLERISRLADDSEPT     83
+                     ||||||||||||||||                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 2 ADLSLLQEDLQEDADGFGVDDYSSESDVIIIPSALDFVSQDEMLTPLGRLDKYAASENIFNRQMVARSLLDTLREVCDDERDCIAVLERISRLADDSEPT    101
+
+P1                84 VRAELMEQVPHIALFCQENRPSIPYAFSKFLLPIVVRYLADQNNQVRKTSQAALLALLEQELIERFDVETKVCPVLIELTAPDSNDDVKTEAVAIMCKMA    183
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               102 VRAELMEQVPHIALFCQENRPSIPYAFSKFLLPIVVRYLADQNNQVRKTSQAALLALLEQELIERFDVETKVCPVLIELTAPDSNDDVKTEAVAIMCKMA    201
+
+P1               184 PMVGKDITERLILPRFCEMCCDCRMFHVRKVCAANFGDICSVVGQQATEEMLLPRFFQLCSDNVWGVRKACAECFMAVSCATCQEIRRTKLSALFINLIS    283
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               202 PMVGKDITERLILPRFCEMCCDCRMFHVRKVCAANFGDICSVVGQQATEEMLLPRFFQLCSDNVWGVRKACAECFMAVSCATCQEIRRTKLSALFINLIS    301
+
+P1               284 DPSRWVRQAAFQSLGPFISTFANPSSSGQYFKEESKSSEEMSVENKNRTRDQEAPEDVQVRPEDTPSDLSVSNSSVILENTMEDHAAEASGKPLGEISVP    383
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               302 DPSRWVRQAAFQSLGPFISTFANPSSSGQYFKEESKSSEEMSVENKNRTRDQEAPEDVQVRPEDTPSDLSVSNSSVILENTMEDHAAEASGKPLGEISVP    401
+
+P1               384 LDSSLLCTLSSESHQEAASNENDKKPGNYKSMLRPEVGTTSQDSALLDQELYNSFHFWRTPLPEIDLDIELEQNSGGKPSPEGPEEESEGPVPSSPNITM    483
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               402 LDSSLLCTLSSESHQEAASNENDKKPGNYKSMLRPEVGTTSQDSALLDQELYNSFHFWRTPLPEIDLDIELEQNSGGKPSPEGPEEESEGPVPSSPNITM    501
+
+P1               484 ATRKELEEMIENLEPHIDDPDVKAQVEVLSAALRASSLDAHEETISIEKRSDLQDELDINELPNCKINQEDSVPLISDAVENMDSTLHYIHSDSDLSNNS    583
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               502 ATRKELEEMIENLEPHIDDPDVKAQVEVLSAALRASSLDAHEETISIEKRSDLQDELDINELPNCKINQEDSVPLISDAVENMDSTLHYIHSDSDLSNNS    601
+
+P1               584 SFSPDEERRTKVQDVVPQALLDQYLSMTDPSRAQTVDTEIAKHCAYSLPGVALTLGRQNWHCLRETYETLASDMQWKVRRTLAFSIHELAVILGDQLTAA    683
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               602 SFSPDEERRTKVQDVVPQALLDQYLSMTDPSRAQTVDTEIAKHCAYSLPGVALTLGRQNWHCLRETYETLASDMQWKVRRTLAFSIHELAVILGDQLTAA    701
+
+P1               684 DLVPIFNGFLKDLDEVRIGVLKHLHDFLKLLHIDKRREYLYQLQEFLVTDNSRNWRFRAELAEQLILLLELYSPRDVYDYLRPIALNLCADKVSSVRWIS    783
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               702 DLVPIFNGFLKDLDEVRIGVLKHLHDFLKLLHIDKRREYLYQLQEFLVTDNSRNWRFRAELAEQLILLLELYSPRDVYDYLRPIALNLCADKVSSVRWIS    801
+
+P1               784 YKLVSEMVKKLHAATPPTFGVDLINELVENFGRCPKWSGRQAFVFVCQTVIEDDCLPMDQFAVHLMPHLLTLANDRVPNVRVLLAKTLRQTLLEKDYFLA    883
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               802 YKLVSEMVKKLHAATPPTFGVDLINELVENFGRCPKWSGRQAFVFVCQTVIEDDCLPMDQFAVHLMPHLLTLANDRVPNVRVLLAKTLRQTLLEKDYFLA    901
+
+P1               884 SASCHQEAVEQTIMALQMDRDSDVKYFASIHPASTKISEDAMSTASSTY    932
+                     |||||||||||||||||||||||||||||||||||||||||||||||||
+S1               902 SASCHQEAVEQTIMALQMDRDSDVKYFASIHPASTKISEDAMSTASSTY    950
+
+
+#---------------------------------------
+#---------------------------------------

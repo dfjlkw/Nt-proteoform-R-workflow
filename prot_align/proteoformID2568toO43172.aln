@@ -1,0 +1,49 @@
+########################################
+# Program: Biostrings (version 2.54.0), a Bioconductor package
+# Rundate: Fri Jul 03 11:31:05 2020
+########################################
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: P1
+# 2: S1
+# Matrix: NA
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 521
+# Identity:     520/521 (99.8%)
+# Similarity:    NA/521 (NA%)
+# Gaps:           1/521 (0.2%)
+# Score: 2766
+#
+#
+#=======================================
+
+P1                 1 ASSRASST-ATKTKAPDDLVAPVVKKPHIYYGSLEEKERERLAKGESGILGKDGLKAGIEAGNINITSGEVFEIEEHISERQAEVLAEFERRKRARQINV     99
+                     |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1                 2 ASSRASSTQATKTKAPDDLVAPVVKKPHIYYGSLEEKERERLAKGESGILGKDGLKAGIEAGNINITSGEVFEIEEHISERQAEVLAEFERRKRARQINV    101
+
+P1               100 STDDSEVKACLRALGEPITLFGEGPAERRERLRNILSVVGTDALKKTKKDDEKSKKSKEEYQQTWYHEGPNSLKVARLWIANYSLPRAMKRLEEARLHKE    199
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               102 STDDSEVKACLRALGEPITLFGEGPAERRERLRNILSVVGTDALKKTKKDDEKSKKSKEEYQQTWYHEGPNSLKVARLWIANYSLPRAMKRLEEARLHKE    201
+
+P1               200 IPETTRTSQMQELHKSLRSLNNFCSQIGDDRPISYCHFSPNSKMLATACWSGLCKLWSVPDCNLLHTLRGHNTNVGAIVFHPKSTVSLDPKDVNLASCAA    299
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               202 IPETTRTSQMQELHKSLRSLNNFCSQIGDDRPISYCHFSPNSKMLATACWSGLCKLWSVPDCNLLHTLRGHNTNVGAIVFHPKSTVSLDPKDVNLASCAA    301
+
+P1               300 DGSVKLWSLDSDEPVADIEGHTVRVARVMWHPSGRFLGTTCYDRSWRLWDLEAQEEILHQEGHSMGVYDIAFHQDGSLAGTGGLDAFGRVWDLRTGRCIM    399
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               302 DGSVKLWSLDSDEPVADIEGHTVRVARVMWHPSGRFLGTTCYDRSWRLWDLEAQEEILHQEGHSMGVYDIAFHQDGSLAGTGGLDAFGRVWDLRTGRCIM    401
+
+P1               400 FLEGHLKEIYGINFSPNGYHIATGSGDNTCKVWDLRQRRCVYTIPAHQNLVTGVKFEPIHGNFLLTGAYDNTAKIWTHPGWSPLKTLAGHEGKVMGLDIS    499
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+S1               402 FLEGHLKEIYGINFSPNGYHIATGSGDNTCKVWDLRQRRCVYTIPAHQNLVTGVKFEPIHGNFLLTGAYDNTAKIWTHPGWSPLKTLAGHEGKVMGLDIS    501
+
+P1               500 SDGQLIATCSYDRTFKLWMAE    520
+                     |||||||||||||||||||||
+S1               502 SDGQLIATCSYDRTFKLWMAE    522
+
+
+#---------------------------------------
+#---------------------------------------
